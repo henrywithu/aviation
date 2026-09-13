@@ -1,1 +1,49 @@
-(e,t,n)=>{"use strict";n.d(t,{E:()=>l});var r=n(22099),o=n(22067),i=n(78249),a=n(79803);let s=(0,o.F)("inline-flex relative whitespace-nowrap select-none pr-1.5 text-d-mono font-mono items-center h-6 gap-1",{variants:{variant:{default:"bg-white/20 text-white",warning:"bg-yellow/20 text-yellow",danger:"bg-red/20 text-red",success:"bg-green/20 text-green"},casing:{uppercase:"uppercase",lowercase:"lowercase"},withIcon:{true:"pl-1",false:"pl-1.5"}},defaultVariants:{variant:"default",casing:"uppercase",withIcon:!1}}),l=e=>{let{className:t,variant:n,casing:o,icon:l,asChild:c=!1,children:u,...d}=e,m=c?i.DX:"span";return(0,r.jsxs)(m,{"data-slot":"badge",className:(0,a.A)(s({variant:n,casing:o,withIcon:!!l}),t),...d,children:[l&&(0,r.jsx)(l,{weight:"fill",className:"size-4"}),u]})}}
+(e, t, n) => {
+  "use strict";
+  n.d(t, { E: () => l });
+  var r = n(22099),
+    o = n(22067),
+    i = n(78249),
+    a = n(79803);
+  let s = (0, o.F)(
+      "inline-flex relative whitespace-nowrap select-none pr-1.5 text-d-mono font-mono items-center h-6 gap-1",
+      {
+        variants: {
+          variant: {
+            default: "bg-white/20 text-white",
+            warning: "bg-yellow/20 text-yellow",
+            danger: "bg-red/20 text-red",
+            success: "bg-green/20 text-green",
+          },
+          casing: { uppercase: "uppercase", lowercase: "lowercase" },
+          withIcon: { true: "pl-1", false: "pl-1.5" },
+        },
+        defaultVariants: {
+          variant: "default",
+          casing: "uppercase",
+          withIcon: !1,
+        },
+      },
+    ),
+    l = (e) => {
+      let {
+          className: t,
+          variant: n,
+          casing: o,
+          icon: l,
+          asChild: c = !1,
+          children: u,
+          ...d
+        } = e,
+        m = c ? i.DX : "span";
+      return (0, r.jsxs)(m, {
+        "data-slot": "badge",
+        className: (0, a.A)(s({ variant: n, casing: o, withIcon: !!l }), t),
+        ...d,
+        children: [
+          l && (0, r.jsx)(l, { weight: "fill", className: "size-4" }),
+          u,
+        ],
+      });
+    };
+};
