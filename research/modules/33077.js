@@ -1,0 +1,1 @@
+(t,e,i)=>{i.d(e,{D:()=>a});var n=i(52439),s=i(62282);let r={...i(1183).W,color:n.y,backgroundColor:n.y,outlineColor:n.y,fill:n.y,stroke:n.y,borderColor:n.y,borderTopColor:n.y,borderRightColor:n.y,borderBottomColor:n.y,borderLeftColor:n.y,filter:s.p,WebkitFilter:s.p},a=t=>r[t]}

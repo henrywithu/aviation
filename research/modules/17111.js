@@ -1,0 +1,1 @@
+(t,e,i)=>{i.d(e,{I:()=>n});let n=t=>t.replace(/([a-z])([A-Z])/gu,"$1-$2").toLowerCase()}

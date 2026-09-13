@@ -1,0 +1,1 @@
+(e,t,n)=>{"use strict";n.r(t),n.d(t,{default:()=>r});let r={src:"/_next/static/media/mobile.8107afe0.webp",height:400,width:827,blurDataURL:"data:image/webp;base64,UklGRjIAAABXRUJQVlA4ICYAAAAwAQCdASoIAAQAAkA4JaQAA3AA/vsHxrFDfi+jQEnycQw2c2HAAA==",blurWidth:8,blurHeight:4}}

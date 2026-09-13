@@ -1,0 +1,1 @@
+(t,e,i)=>{i.d(e,{Q:()=>n});let n=(0,i(48947).createContext)({transformPagePoint:t=>t,isStatic:!1,reducedMotion:"never"})}

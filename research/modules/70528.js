@@ -1,0 +1,1 @@
+(t,e,i)=>{i.d(e,{x:()=>a});var n=i(59892),s=i(73841),r=i(7927);function a(t,e,i){let a=(0,r.x)(t,e,i);for(let i in t)((0,n.S)(t[i])||(0,n.S)(e[i]))&&(a[-1!==s.U.indexOf(i)?"attr"+i.charAt(0).toUpperCase()+i.substring(1):i]=t[i]);return a}}

@@ -1,0 +1,1 @@
+(t,e,i)=>{i.d(e,{W:()=>n});function n(t){return"function"==typeof t&&"applyToOptions"in t}}

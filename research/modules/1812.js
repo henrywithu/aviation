@@ -1,0 +1,1 @@
+(t,e,i)=>{i.d(e,{L:()=>a,m:()=>r});var n=i(32873),s=i(52280);function r(t,e){return(0,n.FY)((0,n.bS)(t.getBoundingClientRect(),e))}function a(t,e,i){let n=r(t,i),{scroll:a}=e;return a&&((0,s.Ql)(n.x,a.offset.x),(0,s.Ql)(n.y,a.offset.y)),n}}

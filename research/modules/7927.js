@@ -1,0 +1,1 @@
+(t,e,i)=>{i.d(e,{x:()=>r});var n=i(59892),s=i(56900);function r(t,e,i){let{style:r}=t,a={};for(let o in r)((0,n.S)(r[o])||e.style&&(0,n.S)(e.style[o])||(0,s.z)(o,t)||i?.getValue(o)?.liveStyle!==void 0)&&(a[o]=r[o]);return a}}

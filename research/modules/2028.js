@@ -1,0 +1,1 @@
+(e,t,n)=>{"use strict";n.d(t,{MouseTracker:()=>i});var r=n(48947),l=n(36745);let i=()=>{let e=(0,l.O0)(e=>e.updateMouse);return(0,r.useEffect)(()=>{let t=t=>{e(t.clientX/window.innerWidth*2-1,t.clientY/window.innerHeight*2-1)};return window.addEventListener("mousemove",t),()=>window.removeEventListener("mousemove",t)},[e]),null}}

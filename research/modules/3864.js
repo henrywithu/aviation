@@ -1,0 +1,1 @@
+(t,e,i)=>{i.d(e,{M:()=>s});var n=i(48947);function s(t){let e=(0,n.useRef)(null);return null===e.current&&(e.current=t()),e.current}}

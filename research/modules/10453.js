@@ -1,0 +1,1 @@
+(e,n,t)=>{t.d(n,{A:()=>l});let l="#define GLSLIFY 1\nvarying vec2 vUv; \nuniform vec3 uBgColor;\nuniform float uOpacity;\n\nvoid main() {\n    gl_FragColor.rgb = uBgColor;\n    gl_FragColor.a = uOpacity * smoothstep(0.7, 1.0, vUv.y);\n}"}

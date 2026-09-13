@@ -1,0 +1,1 @@
+(t,e,i)=>{i.d(e,{B:()=>l});var n=i(77457),s=i(39696),r=i(47656),a=i(42098);let o={...s.ai,transform:t=>Math.round((0,n.q)(0,255,t))},l={test:(0,a.$)("rgb","red"),parse:(0,a.q)("red","green","blue"),transform:({red:t,green:e,blue:i,alpha:n=1})=>"rgba("+o.transform(t)+", "+o.transform(e)+", "+o.transform(i)+", "+(0,r.a)(s.X4.transform(n))+")"}}

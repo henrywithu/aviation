@@ -1,0 +1,1 @@
+(t,e,i)=>{i.d(e,{S:()=>n});let n=t=>!!(t&&t.getVelocity)}

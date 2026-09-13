@@ -1,0 +1,1 @@
+(t,e,i)=>{i.d(e,{f:()=>n});function n(t,e){return e?1e3/e*t:0}}

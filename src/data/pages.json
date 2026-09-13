@@ -1,0 +1,440 @@
+{
+  "about": {
+    "title": "About | USAvionix",
+    "html": "<button type=\"button\" aria-label=\"Close\" class=\"z-info fixed top-[calc(var(--nav-height)+0.75rem)] right-4 flex size-10 cursor-pointer items-center justify-center text-white transition-colors duration-200 hover:text-white/50 md:right-8\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"1em\" height=\"1em\" fill=\"currentColor\" viewBox=\"0 0 256 256\" class=\"size-6\"><path d=\"M208.49,191.51a12,12,0,0,1-17,17L128,145,64.49,208.49a12,12,0,0,1-17-17L111,128,47.51,64.49a12,12,0,0,1,17-17L128,111l63.51-63.52a12,12,0,0,1,17,17L145,128Z\"></path></svg></button><section class=\"mx-auto flex min-h-[calc(100svh-var(--nav-height))] w-full flex-col bg-black lg:grid lg:grid-cols-[37.3125rem_1fr]\"><div class=\"relative flex flex-col pt-4 pb-8 md:pt-0 md:pb-8 lg:pt-28.75 lg:pb-16\"><div class=\"flex flex-col gap-4 px-4 md:gap-8 md:px-8 lg:ml-auto lg:max-w-125.25 lg:px-0\"><h1 class=\"md:text-d-h1 text-m-h1\">About</h1><div class=\"flex flex-col gap-4 md:gap-6\"><h2 class=\"md:text-d-h3 text-m-h3\">Advancing autonomy to protect nations, strengthen resilience, and shape the future of defense and critical infrastructure.</h2><div class=\"md:text-d-body-l text-m-body-l text-white/80\"><div class=\"flex flex-col gap-8 md:gap-16\"><div><p>The future of defense, emergency response, and infrastructure security will depend on autonomous systems capable of seeing, deciding, and acting faster than emerging threats.</p><br><p>USAvionix is building that future with dual-use autonomous platforms engineered for both military and critical civilian missions.</p></div><div><div class=\"relative flex py-3 after:absolute after:inset-0 after:border-t after:border-white/40\"><p class=\"text-m-body-s md:text-d-body-s w-full max-w-28.75 text-white md:max-w-35.5\">The Economics</p><p class=\"text-m-body-s md:text-d-body-s text-white/80\">Covering large areas and long distances with aircraft, crews, and patrols scales with every square mile. Intelligent autonomous coverage doesn't. The cost gap widens every year.</p></div><div class=\"relative flex py-3 after:absolute after:inset-0 after:border-t after:border-white/40\"><p class=\"text-m-body-s md:text-d-body-s w-full max-w-28.75 text-white md:max-w-35.5\">The Inflection</p><p class=\"text-m-body-s md:text-d-body-s text-white/80\">Onboard compute can now run serious models in the air. Intelligence no longer has to live in a command center on the other end of a link.</p></div><div class=\"relative flex py-3 after:absolute after:inset-0 after:border-t after:border-white/40\"><p class=\"text-m-body-s md:text-d-body-s w-full max-w-28.75 text-white md:max-w-35.5\">The Flywheel</p><p class=\"text-m-body-s md:text-d-body-s text-white/80\">Every flight feeds Athena, our intelligence foundation. The system gets smarter with every deployment, and that advantage compounds.</p></div></div><button class=\"text-d-cta pointer-events-auto flex cursor-pointer items-center justify-between rounded-full bg-white/25 px-5 py-3 -outline-offset-1 hover:bg-white/30 focus-visible:bg-white/25 focus-visible:shadow-none focus-visible:outline-1 focus-visible:outline-white active:bg-white/25 disabled:bg-white/0 disabled:text-white/40 disabled:outline-1 disabled:outline-white/40 w-full md:max-w-55\" type=\"button\" aria-haspopup=\"dialog\" aria-expanded=\"false\" aria-controls=\"radix-_R_t5bsnqbtb_\" data-state=\"closed\">Contact Us<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"1em\" height=\"1em\" fill=\"currentColor\" viewBox=\"0 0 256 256\" class=\"size-4.5\"><path d=\"M224.49,136.49l-72,72a12,12,0,0,1-17-17L187,140H40a12,12,0,0,1,0-24H187L135.51,64.48a12,12,0,0,1,17-17l72,72A12,12,0,0,1,224.49,136.49Z\"></path></svg></button></div></div></div></div></div><div class=\"relative z-10 order-first aspect-[390/310] w-full p-12 lg:sticky lg:top-[var(--nav-height)] lg:order-last lg:aspect-auto lg:h-[calc(100vh-var(--nav-height))]\"><div class=\"absolute inset-0 z-10\"><img alt=\"\" decoding=\"async\" data-nimg=\"fill\" class=\"[mask-image:linear-gradient(180deg,_#D9D9D9_50%,_rgba(115,_115,_115,_0)_100%)] object-cover lg:[mask-image:linear-gradient(270deg,_#D9D9D9_50%,_rgba(115,_115,_115,_0)_100%)]\" style=\"position:absolute;height:100%;width:100%;left:0;top:0;right:0;bottom:0;color:transparent;background-size:cover;background-position:50% 50%;background-repeat:no-repeat;background-image:url(&quot;data:image/svg+xml;charset=utf-8,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 240'%3E%3Cfilter id='b' color-interpolation-filters='sRGB'%3E%3CfeGaussianBlur stdDeviation='20'/%3E%3CfeColorMatrix values='1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 100 -1' result='s'/%3E%3CfeFlood x='0' y='0' width='100%25' height='100%25'/%3E%3CfeComposite operator='out' in='s'/%3E%3CfeComposite in2='SourceGraphic'/%3E%3CfeGaussianBlur stdDeviation='20'/%3E%3C/filter%3E%3Cimage width='100%25' height='100%25' x='0' y='0' preserveAspectRatio='none' style='filter: url(%23b);' href='data:image/webp;base64,UklGRjgAAABXRUJQVlA4ICwAAADQAQCdASoIAAYAAkA4JaQAAsaZB7XSYAD++3oYzXnTR7ppkdksKBV0UZgAAA=='/%3E%3C/svg%3E&quot;)\" src=\"/_next/static/media/image.f5d950ca.webp\"></div></div></section><!--$--><!--/$--><div id=\"footer\" class=\"relative flex w-full flex-col items-center justify-between px-4 md:px-12 gap-16 border-t border-white/15 pt-16 lg:gap-32 lg:pt-24\"><div class=\"z-over-scroll-sequence flex w-full flex-col items-center gap-12 pb-8 md:flex-row md:items-end justify-center md:justify-between\"><div class=\"flex flex-col items-center gap-6 whitespace-nowrap md:contents\"><p class=\"text-d-cta order-last text-white/20 md:order-none md:hidden lg:block\">© USAvionix Inc. <!-- -->2026</p><div class=\"flex items-center gap-6 whitespace-nowrap md:gap-6.5\"><a target=\"_blank\" class=\"text-d-cta cursor-pointer underline decoration-1 underline-offset-2 hover:no-underline\" href=\"https://notes.usavionix.com\">Notes</a><button type=\"button\" aria-haspopup=\"dialog\" aria-expanded=\"false\" aria-controls=\"radix-_R_2lubtb_\" data-state=\"closed\" class=\"text-d-cta cursor-pointer underline decoration-1 underline-offset-2 hover:no-underline\">Privacy Policy</button><button type=\"button\" aria-haspopup=\"dialog\" aria-expanded=\"false\" aria-controls=\"radix-_R_3lubtb_\" data-state=\"closed\" class=\"text-d-cta cursor-pointer underline decoration-1 underline-offset-2 hover:no-underline\">Terms of Use</button></div></div></div></div>",
+    "sections": [
+      [
+        "h1",
+        "About"
+      ],
+      [
+        "h2",
+        "Advancing autonomy to protect nations, strengthen resilience, and shape the future of defense and critical infrastructure."
+      ],
+      [
+        "p",
+        "The future of defense, emergency response, and infrastructure security will depend on autonomous systems capable of seeing, deciding, and acting faster than emerging threats."
+      ],
+      [
+        "p",
+        "USAvionix is building that future with dual-use autonomous platforms engineered for both military and critical civilian missions."
+      ],
+      [
+        "p",
+        "The Economics"
+      ],
+      [
+        "p",
+        "Covering large areas and long distances with aircraft, crews, and patrols scales with every square mile. Intelligent autonomous coverage doesn't. The cost gap widens every year."
+      ],
+      [
+        "p",
+        "The Inflection"
+      ],
+      [
+        "p",
+        "Onboard compute can now run serious models in the air. Intelligence no longer has to live in a command center on the other end of a link."
+      ],
+      [
+        "p",
+        "The Flywheel"
+      ],
+      [
+        "p",
+        "Every flight feeds Athena, our intelligence foundation. The system gets smarter with every deployment, and that advantage compounds."
+      ],
+      [
+        "p",
+        "© USAvionix Inc. 2026"
+      ]
+    ]
+  },
+  "athena": {
+    "title": "Athena | USAvionix",
+    "html": "<button type=\"button\" aria-label=\"Close\" class=\"z-info fixed top-[calc(var(--nav-height)+0.75rem)] right-4 flex size-10 cursor-pointer items-center justify-center text-white transition-colors duration-200 hover:text-white/50 md:right-8\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"1em\" height=\"1em\" fill=\"currentColor\" viewBox=\"0 0 256 256\" class=\"size-6\"><path d=\"M208.49,191.51a12,12,0,0,1-17,17L128,145,64.49,208.49a12,12,0,0,1-17-17L111,128,47.51,64.49a12,12,0,0,1,17-17L128,111l63.51-63.52a12,12,0,0,1,17,17L145,128Z\"></path></svg></button><section class=\"mx-auto flex min-h-[calc(100svh-var(--nav-height))] w-full flex-col bg-black lg:grid lg:grid-cols-[37.3125rem_1fr]\"><div class=\"relative flex flex-col pt-4 pb-8 md:pt-0 md:pb-8 lg:pt-28.75 lg:pb-16\"><div class=\"flex flex-col gap-4 px-4 md:gap-8 md:px-8 lg:ml-auto lg:max-w-125.25 lg:px-0\"><h1 class=\"md:text-d-h1 text-m-h1\">Athena</h1><div class=\"flex flex-col gap-4 md:gap-6\"><h2 class=\"md:text-d-h3 text-m-h3\">The intelligence and data foundation of USAvionix, built to understand the environment, extract meaning, and continuously learn.</h2><div class=\"md:text-d-body-l text-m-body-l text-white/80\"><div class=\"flex flex-col gap-8 md:gap-16\"><p>Athena is not a single model. It is a collection of models, data systems, and learning processes that work together to interpret the world and continuously improve, determining what something is and what it means in context.</p><div><div class=\"relative flex py-3 after:absolute after:inset-0 after:border-t after:border-white/40\"><p class=\"text-m-body-s md:text-d-body-s w-full max-w-28.75 text-white md:max-w-35.5\">Perception &amp; Reasoning</p><p class=\"text-m-body-s md:text-d-body-s text-white/80\">Vision and language models detect, track, and interpret intent, risk, and behavior with context.</p></div><div class=\"relative flex py-3 after:absolute after:inset-0 after:border-t after:border-white/40\"><p class=\"text-m-body-s md:text-d-body-s w-full max-w-28.75 text-white md:max-w-35.5\">Structured Intelligence</p><p class=\"text-m-body-s md:text-d-body-s text-white/80\">Normalizes raw sensor data into detections, tracks, and inferred events for real-time use by Phalanx.</p></div><div class=\"relative flex py-3 after:absolute after:inset-0 after:border-t after:border-white/40\"><p class=\"text-m-body-s md:text-d-body-s w-full max-w-28.75 text-white md:max-w-35.5\">Continuous Learning</p><p class=\"text-m-body-s md:text-d-body-s text-white/80\">The platform's long-term memory. Data from every flight flows back to refine and retrain the models, an advantage that compounds with every deployment.</p></div></div></div></div></div></div></div><div class=\"relative z-10 order-first aspect-[390/310] w-full p-12 lg:sticky lg:top-[var(--nav-height)] lg:order-last lg:aspect-auto lg:h-[calc(100vh-var(--nav-height))]\"><div class=\"absolute inset-0 z-10\"><div class=\"absolute inset-0 [mask-image:linear-gradient(180deg,_#D9D9D9_50%,_rgba(115,_115,_115,_0)_100%)] lg:[mask-image:linear-gradient(270deg,_#D9D9D9_50%,_rgba(115,_115,_115,_0)_100%)]\"><img alt=\"\" decoding=\"async\" data-nimg=\"fill\" class=\"object-cover\" style=\"position:absolute;height:100%;width:100%;left:0;top:0;right:0;bottom:0;color:transparent;background-size:cover;background-position:50% 50%;background-repeat:no-repeat;background-image:url(&quot;data:image/svg+xml;charset=utf-8,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 160'%3E%3Cfilter id='b' color-interpolation-filters='sRGB'%3E%3CfeGaussianBlur stdDeviation='20'/%3E%3CfeColorMatrix values='1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 100 -1' result='s'/%3E%3CfeFlood x='0' y='0' width='100%25' height='100%25'/%3E%3CfeComposite operator='out' in='s'/%3E%3CfeComposite in2='SourceGraphic'/%3E%3CfeGaussianBlur stdDeviation='20'/%3E%3C/filter%3E%3Cimage width='100%25' height='100%25' x='0' y='0' preserveAspectRatio='none' style='filter: url(%23b);' href='data:image/webp;base64,UklGRlIAAABXRUJQVlA4WAoAAAAQAAAABwAAAwAAQUxQSAoAAAABB1DZiAhERP8DVlA4ICIAAAAwAQCdASoIAAQAAkA4JaQAA3AA/vnaWV/ebgP9EStT7AAA'/%3E%3C/svg%3E&quot;)\" src=\"/_next/static/media/image.e5c156a2.webp\"><svg viewBox=\"0 0 1762 901\" preserveAspectRatio=\"xMidYMid slice\" aria-hidden=\"true\" class=\"absolute inset-0 h-full w-full\"><line x1=\"890\" y1=\"424\" x2=\"806\" y2=\"566\" stroke=\"rgba(255,255,255,0.28)\" stroke-width=\"1.5\" stroke-dasharray=\"2 7\"></line><line x1=\"1240\" y1=\"130\" x2=\"1108\" y2=\"498\" stroke=\"rgba(255,255,255,0.28)\" stroke-width=\"1.5\" stroke-dasharray=\"2 7\"></line><line x1=\"438\" y1=\"670\" x2=\"515\" y2=\"640\" stroke=\"rgba(255,255,255,0.28)\" stroke-width=\"1.5\" stroke-dasharray=\"2 7\"></line><g><polyline points=\"170,700 285,658 395,615 460,600\" fill=\"none\" stroke=\"rgba(255,255,255,0.55)\" stroke-width=\"2\" stroke-dasharray=\"1 8\"></polyline><circle cx=\"170\" cy=\"700\" r=\"3.5\" fill=\"rgba(255,255,255,0.5)\"></circle><circle cx=\"285\" cy=\"658\" r=\"3.5\" fill=\"rgba(255,255,255,0.5)\"></circle><circle cx=\"395\" cy=\"615\" r=\"3.5\" fill=\"rgba(255,255,255,0.5)\"></circle><line x1=\"564\" y1=\"598\" x2=\"750\" y2=\"590\" stroke=\"rgba(255,255,255,0.7)\" stroke-width=\"2\" stroke-dasharray=\"8 6\"></line><path d=\"M 490 599 V 585 H 504 M 550 585 H 564 V 599 M 564 623 V 637 H 550 M 504 637 H 490 V 623\" fill=\"none\" stroke=\"rgba(255,255,255,0.8)\" stroke-width=\"2.5\"></path><rect x=\"490\" y=\"548\" width=\"240\" height=\"27\" rx=\"3\" fill=\"rgba(255,255,255,0.92)\"></rect><text x=\"500\" y=\"567\" font-size=\"17\" fill=\"#000\" style=\"font-family:var(--font-geist-mono), monospace\">VEHICLE A2 · 38KM/H NE</text></g><g><polyline points=\"1108,822 1015,748 952,692 912,658\" fill=\"none\" stroke=\"rgba(255,255,255,0.55)\" stroke-width=\"2\" stroke-dasharray=\"1 8\"></polyline><circle cx=\"1108\" cy=\"822\" r=\"3.5\" fill=\"rgba(255,255,255,0.5)\"></circle><circle cx=\"1015\" cy=\"748\" r=\"3.5\" fill=\"rgba(255,255,255,0.5)\"></circle><circle cx=\"952\" cy=\"692\" r=\"3.5\" fill=\"rgba(255,255,255,0.5)\"></circle><line x1=\"878\" y1=\"636\" x2=\"822\" y2=\"600\" stroke=\"rgba(255,255,255,0.7)\" stroke-width=\"2\" stroke-dasharray=\"8 6\"></line><path d=\"M 878 636 V 622 H 892 M 936 622 H 950 V 636 M 950 658 V 672 H 936 M 892 672 H 878 V 658\" fill=\"none\" stroke=\"rgba(255,255,255,0.8)\" stroke-width=\"2.5\"></path><rect x=\"878\" y=\"585\" width=\"240\" height=\"27\" rx=\"3\" fill=\"rgba(255,255,255,0.92)\"></rect><text x=\"888\" y=\"604\" font-size=\"17\" fill=\"#000\" style=\"font-family:var(--font-geist-mono), monospace\">VEHICLE B7 · 44KM/H NW</text></g><g><path d=\"M 758 570 V 556 H 772 M 840 556 H 854 V 570 M 854 606 V 620 H 840 M 772 620 H 758 V 606\" fill=\"none\" stroke=\"rgba(255,255,255,0.8)\" stroke-width=\"2.5\"></path><rect x=\"758\" y=\"519\" width=\"290\" height=\"27\" rx=\"3\" fill=\"rgba(255,255,255,0.92)\"></rect><text x=\"768\" y=\"538\" font-size=\"17\" fill=\"#000\" style=\"font-family:var(--font-geist-mono), monospace\">COMPOUND · RALLY POINT 0.92</text></g><g><path d=\"M 1060 514 V 500 H 1074 M 1112 500 H 1126 V 514 M 1126 534 V 548 H 1112 M 1074 548 H 1060 V 534\" fill=\"none\" stroke=\"rgba(255,255,255,0.8)\" stroke-width=\"2.5\"></path><rect x=\"940\" y=\"463\" width=\"250\" height=\"27\" rx=\"3\" fill=\"rgba(255,255,255,0.92)\"></rect><text x=\"950\" y=\"482\" font-size=\"17\" fill=\"#000\" style=\"font-family:var(--font-geist-mono), monospace\">INTRUDERS (5) · HOLDING</text></g><g><rect x=\"720\" y=\"310\" width=\"436\" height=\"58\" rx=\"6\" fill=\"rgba(0,0,0,0.72)\" stroke=\"rgba(255,255,255,0.6)\" stroke-width=\"1.5\"></rect><text x=\"742\" y=\"334\" font-size=\"20\" fill=\"#fff\" style=\"font-family:var(--font-geist-mono), monospace\">EVENT E-17 · RENDEZVOUS FORMING</text><text x=\"742\" y=\"356\" font-size=\"18\" fill=\"rgba(255,255,255,0.65)\" style=\"font-family:var(--font-geist-mono), monospace\">2 VEH + 5 INTRUDERS · CONF 0.90</text><line x1=\"830\" y1=\"368\" x2=\"800\" y2=\"556\" stroke=\"rgba(255,255,255,0.35)\" stroke-width=\"1.5\" stroke-dasharray=\"2 7\"></line></g></svg></div></div></div></section><!--$--><!--/$--><div id=\"footer\" class=\"relative flex w-full flex-col items-center justify-between px-4 md:px-12 gap-16 border-t border-white/15 pt-16 lg:gap-32 lg:pt-24\"><div class=\"z-over-scroll-sequence flex w-full flex-col items-center gap-12 pb-8 md:flex-row md:items-end justify-between\"><div class=\"flex max-w-94 flex-col items-center gap-5 text-center md:items-start md:text-left\"><p class=\"text-d-h3 text-white\">Ready to talk to us?</p><button class=\"text-d-cta pointer-events-auto flex cursor-pointer items-center justify-between rounded-full bg-white/25 px-5 py-3 -outline-offset-1 hover:bg-white/30 focus-visible:bg-white/25 focus-visible:shadow-none focus-visible:outline-1 focus-visible:outline-white active:bg-white/25 disabled:bg-white/0 disabled:text-white/40 disabled:outline-1 disabled:outline-white/40 w-full md:w-auto\">Contact Us<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"1em\" height=\"1em\" fill=\"currentColor\" viewBox=\"0 0 256 256\" class=\"size-4.5\"><path d=\"M224.49,136.49l-72,72a12,12,0,0,1-17-17L187,140H40a12,12,0,0,1,0-24H187L135.51,64.48a12,12,0,0,1,17-17l72,72A12,12,0,0,1,224.49,136.49Z\"></path></svg></button></div><div class=\"flex flex-col items-center gap-6 whitespace-nowrap md:contents\"><p class=\"text-d-cta order-last text-white/20 md:order-none md:hidden lg:block\">© USAvionix Inc. <!-- -->2026</p><div class=\"flex items-center gap-6 whitespace-nowrap md:gap-6.5\"><a target=\"_blank\" class=\"text-d-cta cursor-pointer underline decoration-1 underline-offset-2 hover:no-underline\" href=\"https://notes.usavionix.com\">Notes</a><button type=\"button\" aria-haspopup=\"dialog\" aria-expanded=\"false\" aria-controls=\"radix-_R_2lubtb_\" data-state=\"closed\" class=\"text-d-cta cursor-pointer underline decoration-1 underline-offset-2 hover:no-underline\">Privacy Policy</button><button type=\"button\" aria-haspopup=\"dialog\" aria-expanded=\"false\" aria-controls=\"radix-_R_3lubtb_\" data-state=\"closed\" class=\"text-d-cta cursor-pointer underline decoration-1 underline-offset-2 hover:no-underline\">Terms of Use</button></div></div></div></div>",
+    "sections": [
+      [
+        "h1",
+        "Athena"
+      ],
+      [
+        "h2",
+        "The intelligence and data foundation of USAvionix, built to understand the environment, extract meaning, and continuously learn."
+      ],
+      [
+        "p",
+        "Athena is not a single model. It is a collection of models, data systems, and learning processes that work together to interpret the world and continuously improve, determining what something is and what it means in context."
+      ],
+      [
+        "p",
+        "Perception & Reasoning"
+      ],
+      [
+        "p",
+        "Vision and language models detect, track, and interpret intent, risk, and behavior with context."
+      ],
+      [
+        "p",
+        "Structured Intelligence"
+      ],
+      [
+        "p",
+        "Normalizes raw sensor data into detections, tracks, and inferred events for real-time use by Phalanx."
+      ],
+      [
+        "p",
+        "Continuous Learning"
+      ],
+      [
+        "p",
+        "The platform's long-term memory. Data from every flight flows back to refine and retrain the models, an advantage that compounds with every deployment."
+      ],
+      [
+        "p",
+        "Ready to talk to us?"
+      ],
+      [
+        "p",
+        "© USAvionix Inc. 2026"
+      ]
+    ]
+  },
+  "careers": {
+    "title": "Careers | USAvionix",
+    "html": "<button type=\"button\" aria-label=\"Close\" class=\"z-info fixed top-[calc(var(--nav-height)+0.75rem)] right-4 flex size-10 cursor-pointer items-center justify-center text-white transition-colors duration-200 hover:text-white/50 md:right-8\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"1em\" height=\"1em\" fill=\"currentColor\" viewBox=\"0 0 256 256\" class=\"size-6\"><path d=\"M208.49,191.51a12,12,0,0,1-17,17L128,145,64.49,208.49a12,12,0,0,1-17-17L111,128,47.51,64.49a12,12,0,0,1,17-17L128,111l63.51-63.52a12,12,0,0,1,17,17L145,128Z\"></path></svg></button><div class=\"bg-black pt-[calc(var(--nav-height)+2rem)] pb-24\"><div class=\"container-md mx-auto\"><div class=\"mb-10 flex flex-col gap-4 md:mb-12 md:gap-6\"><h1 class=\"text-m-h1 md:text-d-h1\">We're hiring.</h1><p class=\"text-m-h3 md:text-d-h3 max-w-2xl text-white/80\">Build the future of autonomous ISR. We're looking for exceptional engineers to help us secure the skies and defend what matters.</p></div><div class=\"mb-8 flex flex-wrap gap-2\"><button type=\"button\" class=\"text-d-body-s cursor-pointer rounded-full border px-4 py-2 transition-colors duration-200 border-white bg-white text-black\">All</button><button type=\"button\" class=\"text-d-body-s cursor-pointer rounded-full border px-4 py-2 transition-colors duration-200 border-white/15 text-white/55 hover:border-white/40 hover:text-white\">Engineering</button><button type=\"button\" class=\"text-d-body-s cursor-pointer rounded-full border px-4 py-2 transition-colors duration-200 border-white/15 text-white/55 hover:border-white/40 hover:text-white\">Product</button><button type=\"button\" class=\"text-d-body-s cursor-pointer rounded-full border px-4 py-2 transition-colors duration-200 border-white/15 text-white/55 hover:border-white/40 hover:text-white\">Internship</button></div><ul class=\"grid gap-4 sm:grid-cols-2 xl:grid-cols-3\"><li><a class=\"group flex h-full flex-col rounded-xl border border-white/10 bg-white/[0.03] p-6 transition-colors duration-200 hover:border-white/25 hover:bg-white/[0.06]\" href=\"/careers/full-stack-engineer\"><h2 class=\"text-m-h3 md:text-d-h3 text-white\">Full Stack Engineer</h2><p class=\"text-d-body-s mt-2 text-white/45\">San Francisco, CA - Onsite (Flexible)  ·  Full-time</p><span class=\"text-d-cta mt-auto flex items-center gap-1.5 pt-8 text-white/55 transition-colors duration-200 group-hover:text-white\">View role<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"1em\" height=\"1em\" fill=\"currentColor\" viewBox=\"0 0 256 256\" class=\"size-4\"><path d=\"M204,64V168a12,12,0,0,1-24,0V93L72.49,200.49a12,12,0,0,1-17-17L163,76H88a12,12,0,0,1,0-24H192A12,12,0,0,1,204,64Z\"></path></svg></span></a></li><li><a class=\"group flex h-full flex-col rounded-xl border border-white/10 bg-white/[0.03] p-6 transition-colors duration-200 hover:border-white/25 hover:bg-white/[0.06]\" href=\"/careers/aerospace-mechanical-engineer\"><h2 class=\"text-m-h3 md:text-d-h3 text-white\">Aerospace Mechanical Engineer</h2><p class=\"text-d-body-s mt-2 text-white/45\">San Francisco, CA – Onsite or Hybrid</p><span class=\"text-d-cta mt-auto flex items-center gap-1.5 pt-8 text-white/55 transition-colors duration-200 group-hover:text-white\">View role<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"1em\" height=\"1em\" fill=\"currentColor\" viewBox=\"0 0 256 256\" class=\"size-4\"><path d=\"M204,64V168a12,12,0,0,1-24,0V93L72.49,200.49a12,12,0,0,1-17-17L163,76H88a12,12,0,0,1,0-24H192A12,12,0,0,1,204,64Z\"></path></svg></span></a></li><li><a class=\"group flex h-full flex-col rounded-xl border border-white/10 bg-white/[0.03] p-6 transition-colors duration-200 hover:border-white/25 hover:bg-white/[0.06]\" href=\"/careers/computer-vision-engineer\"><h2 class=\"text-m-h3 md:text-d-h3 text-white\">Computer Vision Engineer</h2><p class=\"text-d-body-s mt-2 text-white/45\">San Francisco, CA - Onsite (Flexible)  ·  Full-time</p><span class=\"text-d-cta mt-auto flex items-center gap-1.5 pt-8 text-white/55 transition-colors duration-200 group-hover:text-white\">View role<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"1em\" height=\"1em\" fill=\"currentColor\" viewBox=\"0 0 256 256\" class=\"size-4\"><path d=\"M204,64V168a12,12,0,0,1-24,0V93L72.49,200.49a12,12,0,0,1-17-17L163,76H88a12,12,0,0,1,0-24H192A12,12,0,0,1,204,64Z\"></path></svg></span></a></li><li><a class=\"group flex h-full flex-col rounded-xl border border-white/10 bg-white/[0.03] p-6 transition-colors duration-200 hover:border-white/25 hover:bg-white/[0.06]\" href=\"/careers/talent-intern-recruiting-administrative-support\"><h2 class=\"text-m-h3 md:text-d-h3 text-white\">Talent Intern – Recruiting &amp; Administrative Support</h2><p class=\"text-d-body-s mt-2 text-white/45\">Tijuana, Mexico (Onsite or Hybrid)</p><span class=\"text-d-cta mt-auto flex items-center gap-1.5 pt-8 text-white/55 transition-colors duration-200 group-hover:text-white\">View role<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"1em\" height=\"1em\" fill=\"currentColor\" viewBox=\"0 0 256 256\" class=\"size-4\"><path d=\"M204,64V168a12,12,0,0,1-24,0V93L72.49,200.49a12,12,0,0,1-17-17L163,76H88a12,12,0,0,1,0-24H192A12,12,0,0,1,204,64Z\"></path></svg></span></a></li><li><a class=\"group flex h-full flex-col rounded-xl border border-white/10 bg-white/[0.03] p-6 transition-colors duration-200 hover:border-white/25 hover:bg-white/[0.06]\" href=\"/careers/product-manager-autonomy-systems\"><h2 class=\"text-m-h3 md:text-d-h3 text-white\">Product Manager - Autonomy Systems</h2><p class=\"text-d-body-s mt-2 text-white/45\">San Francisco, CA - Onsite (Flexible)  ·  Full-time</p><span class=\"text-d-cta mt-auto flex items-center gap-1.5 pt-8 text-white/55 transition-colors duration-200 group-hover:text-white\">View role<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"1em\" height=\"1em\" fill=\"currentColor\" viewBox=\"0 0 256 256\" class=\"size-4\"><path d=\"M204,64V168a12,12,0,0,1-24,0V93L72.49,200.49a12,12,0,0,1-17-17L163,76H88a12,12,0,0,1,0-24H192A12,12,0,0,1,204,64Z\"></path></svg></span></a></li><li><a class=\"group flex h-full flex-col rounded-xl border border-white/10 bg-white/[0.03] p-6 transition-colors duration-200 hover:border-white/25 hover:bg-white/[0.06]\" href=\"/careers/operations-intern\"><h2 class=\"text-m-h3 md:text-d-h3 text-white\">Operations Intern</h2><p class=\"text-d-body-s mt-2 text-white/45\">San Francisco, CA - Onsite (Flexible)  ·  Full-time</p><span class=\"text-d-cta mt-auto flex items-center gap-1.5 pt-8 text-white/55 transition-colors duration-200 group-hover:text-white\">View role<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"1em\" height=\"1em\" fill=\"currentColor\" viewBox=\"0 0 256 256\" class=\"size-4\"><path d=\"M204,64V168a12,12,0,0,1-24,0V93L72.49,200.49a12,12,0,0,1-17-17L163,76H88a12,12,0,0,1,0-24H192A12,12,0,0,1,204,64Z\"></path></svg></span></a></li><li><a class=\"group flex h-full flex-col rounded-xl border border-white/10 bg-white/[0.03] p-6 transition-colors duration-200 hover:border-white/25 hover:bg-white/[0.06]\" href=\"/careers/ai-engineer\"><h2 class=\"text-m-h3 md:text-d-h3 text-white\">AI Engineer</h2><p class=\"text-d-body-s mt-2 text-white/45\">San Francisco, CA - Onsite (Flexible)  ·  Full-time</p><span class=\"text-d-cta mt-auto flex items-center gap-1.5 pt-8 text-white/55 transition-colors duration-200 group-hover:text-white\">View role<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"1em\" height=\"1em\" fill=\"currentColor\" viewBox=\"0 0 256 256\" class=\"size-4\"><path d=\"M204,64V168a12,12,0,0,1-24,0V93L72.49,200.49a12,12,0,0,1-17-17L163,76H88a12,12,0,0,1,0-24H192A12,12,0,0,1,204,64Z\"></path></svg></span></a></li><li><a class=\"group flex h-full flex-col rounded-xl border border-white/10 bg-white/[0.03] p-6 transition-colors duration-200 hover:border-white/25 hover:bg-white/[0.06]\" href=\"/careers/mechanical-engineering-intern-prototyping-test-systems\"><h2 class=\"text-m-h3 md:text-d-h3 text-white\">Mechanical Engineering Intern – Prototyping &amp; Test Systems</h2><p class=\"text-d-body-s mt-2 text-white/45\">San Francisco, CA – Onsite or Hybrid</p><span class=\"text-d-cta mt-auto flex items-center gap-1.5 pt-8 text-white/55 transition-colors duration-200 group-hover:text-white\">View role<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"1em\" height=\"1em\" fill=\"currentColor\" viewBox=\"0 0 256 256\" class=\"size-4\"><path d=\"M204,64V168a12,12,0,0,1-24,0V93L72.49,200.49a12,12,0,0,1-17-17L163,76H88a12,12,0,0,1,0-24H192A12,12,0,0,1,204,64Z\"></path></svg></span></a></li><li><a class=\"group flex h-full flex-col rounded-xl border border-white/10 bg-white/[0.03] p-6 transition-colors duration-200 hover:border-white/25 hover:bg-white/[0.06]\" href=\"/careers/hardware-embedded-systems-intern-ai-test-integration\"><h2 class=\"text-m-h3 md:text-d-h3 text-white\">Hardware / Embedded Systems Intern – AI Test &amp; Integration</h2><p class=\"text-d-body-s mt-2 text-white/45\">San Francisco, CA – Onsite or Hybrid</p><span class=\"text-d-cta mt-auto flex items-center gap-1.5 pt-8 text-white/55 transition-colors duration-200 group-hover:text-white\">View role<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"1em\" height=\"1em\" fill=\"currentColor\" viewBox=\"0 0 256 256\" class=\"size-4\"><path d=\"M204,64V168a12,12,0,0,1-24,0V93L72.49,200.49a12,12,0,0,1-17-17L163,76H88a12,12,0,0,1,0-24H192A12,12,0,0,1,204,64Z\"></path></svg></span></a></li><li><a class=\"group flex h-full flex-col rounded-xl border border-white/10 bg-white/[0.03] p-6 transition-colors duration-200 hover:border-white/25 hover:bg-white/[0.06]\" href=\"/careers/hardware-engineer\"><h2 class=\"text-m-h3 md:text-d-h3 text-white\">Hardware Engineer</h2><p class=\"text-d-body-s mt-2 text-white/45\">San Francisco, CA - Onsite (Flexible)  ·  Full-time</p><span class=\"text-d-cta mt-auto flex items-center gap-1.5 pt-8 text-white/55 transition-colors duration-200 group-hover:text-white\">View role<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"1em\" height=\"1em\" fill=\"currentColor\" viewBox=\"0 0 256 256\" class=\"size-4\"><path d=\"M204,64V168a12,12,0,0,1-24,0V93L72.49,200.49a12,12,0,0,1-17-17L163,76H88a12,12,0,0,1,0-24H192A12,12,0,0,1,204,64Z\"></path></svg></span></a></li><li><a class=\"group flex h-full flex-col rounded-xl border border-white/10 bg-white/[0.03] p-6 transition-colors duration-200 hover:border-white/25 hover:bg-white/[0.06]\" href=\"/careers/strategic-projects-intern\"><h2 class=\"text-m-h3 md:text-d-h3 text-white\">Strategic Projects Intern</h2><p class=\"text-d-body-s mt-2 text-white/45\">San Francisco, CA - Onsite (Flexible)  ·  Full-time</p><span class=\"text-d-cta mt-auto flex items-center gap-1.5 pt-8 text-white/55 transition-colors duration-200 group-hover:text-white\">View role<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"1em\" height=\"1em\" fill=\"currentColor\" viewBox=\"0 0 256 256\" class=\"size-4\"><path d=\"M204,64V168a12,12,0,0,1-24,0V93L72.49,200.49a12,12,0,0,1-17-17L163,76H88a12,12,0,0,1,0-24H192A12,12,0,0,1,204,64Z\"></path></svg></span></a></li><li><a class=\"group flex h-full flex-col rounded-xl border border-white/10 bg-white/[0.03] p-6 transition-colors duration-200 hover:border-white/25 hover:bg-white/[0.06]\" href=\"/careers/product-owner-autonomy-systems\"><h2 class=\"text-m-h3 md:text-d-h3 text-white\">Product Owner - Autonomy Systems</h2><span class=\"text-d-cta mt-auto flex items-center gap-1.5 pt-8 text-white/55 transition-colors duration-200 group-hover:text-white\">View role<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"1em\" height=\"1em\" fill=\"currentColor\" viewBox=\"0 0 256 256\" class=\"size-4\"><path d=\"M204,64V168a12,12,0,0,1-24,0V93L72.49,200.49a12,12,0,0,1-17-17L163,76H88a12,12,0,0,1,0-24H192A12,12,0,0,1,204,64Z\"></path></svg></span></a></li></ul></div></div><!--$--><!--/$--><div id=\"footer\" class=\"relative flex w-full flex-col items-center justify-between px-4 md:px-12 gap-16 border-t border-white/15 pt-16 lg:gap-32 lg:pt-24\"><div class=\"z-over-scroll-sequence flex w-full flex-col items-center gap-12 pb-8 md:flex-row md:items-end justify-between\"><div class=\"flex max-w-94 flex-col items-center gap-5 text-center md:items-start md:text-left\"><p class=\"text-d-h3 text-white\">Ready to talk to us?</p><button class=\"text-d-cta pointer-events-auto flex cursor-pointer items-center justify-between rounded-full bg-white/25 px-5 py-3 -outline-offset-1 hover:bg-white/30 focus-visible:bg-white/25 focus-visible:shadow-none focus-visible:outline-1 focus-visible:outline-white active:bg-white/25 disabled:bg-white/0 disabled:text-white/40 disabled:outline-1 disabled:outline-white/40 w-full md:w-auto\">Contact Us<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"1em\" height=\"1em\" fill=\"currentColor\" viewBox=\"0 0 256 256\" class=\"size-4.5\"><path d=\"M224.49,136.49l-72,72a12,12,0,0,1-17-17L187,140H40a12,12,0,0,1,0-24H187L135.51,64.48a12,12,0,0,1,17-17l72,72A12,12,0,0,1,224.49,136.49Z\"></path></svg></button></div><div class=\"flex flex-col items-center gap-6 whitespace-nowrap md:contents\"><p class=\"text-d-cta order-last text-white/20 md:order-none md:hidden lg:block\">© USAvionix Inc. <!-- -->2026</p><div class=\"flex items-center gap-6 whitespace-nowrap md:gap-6.5\"><a target=\"_blank\" class=\"text-d-cta cursor-pointer underline decoration-1 underline-offset-2 hover:no-underline\" href=\"https://notes.usavionix.com\">Notes</a><button type=\"button\" aria-haspopup=\"dialog\" aria-expanded=\"false\" aria-controls=\"radix-_R_2lubtb_\" data-state=\"closed\" class=\"text-d-cta cursor-pointer underline decoration-1 underline-offset-2 hover:no-underline\">Privacy Policy</button><button type=\"button\" aria-haspopup=\"dialog\" aria-expanded=\"false\" aria-controls=\"radix-_R_3lubtb_\" data-state=\"closed\" class=\"text-d-cta cursor-pointer underline decoration-1 underline-offset-2 hover:no-underline\">Terms of Use</button></div></div></div></div>",
+    "sections": [
+      [
+        "h1",
+        "We're hiring."
+      ],
+      [
+        "p",
+        "Build the future of autonomous ISR. We're looking for exceptional engineers to help us secure the skies and defend what matters."
+      ],
+      [
+        "h2",
+        "Full Stack Engineer"
+      ],
+      [
+        "p",
+        "San Francisco, CA - Onsite (Flexible)  ·  Full-time"
+      ],
+      [
+        "h2",
+        "Aerospace Mechanical Engineer"
+      ],
+      [
+        "p",
+        "San Francisco, CA – Onsite or Hybrid"
+      ],
+      [
+        "h2",
+        "Computer Vision Engineer"
+      ],
+      [
+        "p",
+        "San Francisco, CA - Onsite (Flexible)  ·  Full-time"
+      ],
+      [
+        "h2",
+        "Talent Intern – Recruiting & Administrative Support"
+      ],
+      [
+        "p",
+        "Tijuana, Mexico (Onsite or Hybrid)"
+      ],
+      [
+        "h2",
+        "Product Manager - Autonomy Systems"
+      ],
+      [
+        "p",
+        "San Francisco, CA - Onsite (Flexible)  ·  Full-time"
+      ],
+      [
+        "h2",
+        "Operations Intern"
+      ],
+      [
+        "p",
+        "San Francisco, CA - Onsite (Flexible)  ·  Full-time"
+      ],
+      [
+        "h2",
+        "AI Engineer"
+      ],
+      [
+        "p",
+        "San Francisco, CA - Onsite (Flexible)  ·  Full-time"
+      ],
+      [
+        "h2",
+        "Mechanical Engineering Intern – Prototyping & Test Systems"
+      ],
+      [
+        "p",
+        "San Francisco, CA – Onsite or Hybrid"
+      ],
+      [
+        "h2",
+        "Hardware / Embedded Systems Intern – AI Test & Integration"
+      ],
+      [
+        "p",
+        "San Francisco, CA – Onsite or Hybrid"
+      ],
+      [
+        "h2",
+        "Hardware Engineer"
+      ],
+      [
+        "p",
+        "San Francisco, CA - Onsite (Flexible)  ·  Full-time"
+      ],
+      [
+        "h2",
+        "Strategic Projects Intern"
+      ],
+      [
+        "p",
+        "San Francisco, CA - Onsite (Flexible)  ·  Full-time"
+      ],
+      [
+        "h2",
+        "Product Owner - Autonomy Systems"
+      ],
+      [
+        "p",
+        "Ready to talk to us?"
+      ],
+      [
+        "p",
+        "© USAvionix Inc. 2026"
+      ]
+    ]
+  },
+  "delta": {
+    "title": "Delta | USAvionix",
+    "html": "<button type=\"button\" aria-label=\"Close\" class=\"z-info fixed top-[calc(var(--nav-height)+0.75rem)] right-4 flex size-10 cursor-pointer items-center justify-center text-white transition-colors duration-200 hover:text-white/50 md:right-8\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"1em\" height=\"1em\" fill=\"currentColor\" viewBox=\"0 0 256 256\" class=\"size-6\"><path d=\"M208.49,191.51a12,12,0,0,1-17,17L128,145,64.49,208.49a12,12,0,0,1-17-17L111,128,47.51,64.49a12,12,0,0,1,17-17L128,111l63.51-63.52a12,12,0,0,1,17,17L145,128Z\"></path></svg></button><section class=\"mx-auto flex min-h-[calc(100svh-var(--nav-height))] w-full flex-col bg-black lg:grid lg:grid-cols-[37.3125rem_1fr]\"><div class=\"relative flex flex-col pt-4 pb-8 md:pt-0 md:pb-8 lg:pt-28.75 lg:pb-16\"><div class=\"flex flex-col gap-4 px-4 md:gap-8 md:px-8 lg:ml-auto lg:max-w-125.25 lg:px-0\"><h1 class=\"md:text-d-h1 text-m-h1\">Delta</h1><div class=\"flex flex-col gap-4 md:gap-6\"><h2 class=\"md:text-d-h3 text-m-h3\">A subsonic, jet-powered ISR drone built for speed, autonomy, and real-time intelligence over ranges of 300 to 500+ kilometers.</h2><div class=\"md:text-d-body-l text-m-body-l text-white/80\"><div class=\"flex flex-col gap-8 md:gap-16\"><p>Reaching speeds up to 500 km/h, it launches on its own, lands vertically, and operates solo or as part of an autonomous fleet, delivering persistent, high-altitude surveillance at scale.</p><div><div class=\"relative flex py-3 after:absolute after:inset-0 after:border-t after:border-white/40\"><p class=\"text-m-body-s md:text-d-body-s w-full max-w-28.75 text-white md:max-w-35.5\">Autonomy</p><p class=\"text-m-body-s md:text-d-body-s text-white/80\">End-to-end autonomous operation with vertical takeoff and landing.</p></div><div class=\"relative flex py-3 after:absolute after:inset-0 after:border-t after:border-white/40\"><p class=\"text-m-body-s md:text-d-body-s w-full max-w-28.75 text-white md:max-w-35.5\">Adaptive Intelligence</p><p class=\"text-m-body-s md:text-d-body-s text-white/80\">Phalanx AI updates mission logic in real time and shares insights across the fleet.</p></div><div class=\"relative flex py-3 after:absolute after:inset-0 after:border-t after:border-white/40\"><p class=\"text-m-body-s md:text-d-body-s w-full max-w-28.75 text-white md:max-w-35.5\">Operational Resilience</p><p class=\"text-m-body-s md:text-d-body-s text-white/80\">Mesh networking + satellite uplink maintain coordination in denied environments.</p></div></div></div></div></div></div></div><div class=\"relative z-10 order-first aspect-[390/310] w-full p-12 lg:sticky lg:top-[var(--nav-height)] lg:order-last lg:aspect-auto lg:h-[calc(100vh-var(--nav-height))]\"><div class=\"absolute inset-0 z-10\"><div class=\"h-full w-full touch-auto!\"><div style=\"position:relative;width:100%;height:100%;overflow:hidden;pointer-events:auto\" class=\"pointer-events-none! h-full w-full transition-opacity opacity-0\"><div style=\"width:100%;height:100%\"><canvas style=\"display:block\"></canvas></div></div></div></div></div></section><!--$--><!--/$--><div id=\"footer\" class=\"relative flex w-full flex-col items-center justify-between px-4 md:px-12 gap-16 border-t border-white/15 pt-16 lg:gap-32 lg:pt-24\"><div class=\"z-over-scroll-sequence flex w-full flex-col items-center gap-12 pb-8 md:flex-row md:items-end justify-between\"><div class=\"flex max-w-94 flex-col items-center gap-5 text-center md:items-start md:text-left\"><p class=\"text-d-h3 text-white\">Ready to talk to us?</p><button class=\"text-d-cta pointer-events-auto flex cursor-pointer items-center justify-between rounded-full bg-white/25 px-5 py-3 -outline-offset-1 hover:bg-white/30 focus-visible:bg-white/25 focus-visible:shadow-none focus-visible:outline-1 focus-visible:outline-white active:bg-white/25 disabled:bg-white/0 disabled:text-white/40 disabled:outline-1 disabled:outline-white/40 w-full md:w-auto\">Contact Us<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"1em\" height=\"1em\" fill=\"currentColor\" viewBox=\"0 0 256 256\" class=\"size-4.5\"><path d=\"M224.49,136.49l-72,72a12,12,0,0,1-17-17L187,140H40a12,12,0,0,1,0-24H187L135.51,64.48a12,12,0,0,1,17-17l72,72A12,12,0,0,1,224.49,136.49Z\"></path></svg></button></div><div class=\"flex flex-col items-center gap-6 whitespace-nowrap md:contents\"><p class=\"text-d-cta order-last text-white/20 md:order-none md:hidden lg:block\">© USAvionix Inc. <!-- -->2026</p><div class=\"flex items-center gap-6 whitespace-nowrap md:gap-6.5\"><a target=\"_blank\" class=\"text-d-cta cursor-pointer underline decoration-1 underline-offset-2 hover:no-underline\" href=\"https://notes.usavionix.com\">Notes</a><button type=\"button\" aria-haspopup=\"dialog\" aria-expanded=\"false\" aria-controls=\"radix-_R_2lubtb_\" data-state=\"closed\" class=\"text-d-cta cursor-pointer underline decoration-1 underline-offset-2 hover:no-underline\">Privacy Policy</button><button type=\"button\" aria-haspopup=\"dialog\" aria-expanded=\"false\" aria-controls=\"radix-_R_3lubtb_\" data-state=\"closed\" class=\"text-d-cta cursor-pointer underline decoration-1 underline-offset-2 hover:no-underline\">Terms of Use</button></div></div></div></div>",
+    "sections": [
+      [
+        "h1",
+        "Delta"
+      ],
+      [
+        "h2",
+        "A subsonic, jet-powered ISR drone built for speed, autonomy, and real-time intelligence over ranges of 300 to 500+ kilometers."
+      ],
+      [
+        "p",
+        "Reaching speeds up to 500 km/h, it launches on its own, lands vertically, and operates solo or as part of an autonomous fleet, delivering persistent, high-altitude surveillance at scale."
+      ],
+      [
+        "p",
+        "Autonomy"
+      ],
+      [
+        "p",
+        "End-to-end autonomous operation with vertical takeoff and landing."
+      ],
+      [
+        "p",
+        "Adaptive Intelligence"
+      ],
+      [
+        "p",
+        "Phalanx AI updates mission logic in real time and shares insights across the fleet."
+      ],
+      [
+        "p",
+        "Operational Resilience"
+      ],
+      [
+        "p",
+        "Mesh networking + satellite uplink maintain coordination in denied environments."
+      ],
+      [
+        "p",
+        "Ready to talk to us?"
+      ],
+      [
+        "p",
+        "© USAvionix Inc. 2026"
+      ]
+    ]
+  },
+  "partners": {
+    "title": "Partner Program | USAvionix",
+    "html": "<button type=\"button\" aria-label=\"Close\" class=\"z-info fixed top-[calc(var(--nav-height)+0.75rem)] right-4 flex size-10 cursor-pointer items-center justify-center text-white transition-colors duration-200 hover:text-white/50 md:right-8\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"1em\" height=\"1em\" fill=\"currentColor\" viewBox=\"0 0 256 256\" class=\"size-6\"><path d=\"M208.49,191.51a12,12,0,0,1-17,17L128,145,64.49,208.49a12,12,0,0,1-17-17L111,128,47.51,64.49a12,12,0,0,1,17-17L128,111l63.51-63.52a12,12,0,0,1,17,17L145,128Z\"></path></svg></button><section class=\"relative w-full overflow-hidden bg-black px-6 py-28 md:py-32\"><div aria-hidden=\"true\" class=\"absolute inset-x-0 top-0 h-[52rem] [mask-image:linear-gradient(180deg,black_0%,rgba(0,0,0,0.5)_55%,transparent_100%)]\"><img alt=\"\" decoding=\"async\" data-nimg=\"fill\" class=\"scale-[1.75] object-cover object-left-bottom opacity-40 brightness-125 [transform-origin:bottom_left]\" style=\"position:absolute;height:100%;width:100%;left:0;top:0;right:0;bottom:0;color:transparent;background-size:cover;background-position:50% 50%;background-repeat:no-repeat;background-image:url(&quot;data:image/svg+xml;charset=utf-8,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 240'%3E%3Cfilter id='b' color-interpolation-filters='sRGB'%3E%3CfeGaussianBlur stdDeviation='20'/%3E%3CfeColorMatrix values='1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 100 -1' result='s'/%3E%3CfeFlood x='0' y='0' width='100%25' height='100%25'/%3E%3CfeComposite operator='out' in='s'/%3E%3CfeComposite in2='SourceGraphic'/%3E%3CfeGaussianBlur stdDeviation='20'/%3E%3C/filter%3E%3Cimage width='100%25' height='100%25' x='0' y='0' preserveAspectRatio='none' style='filter: url(%23b);' href='data:image/webp;base64,UklGRjgAAABXRUJQVlA4ICwAAADQAQCdASoIAAYAAkA4JaQAAsaZB7XSYAD++3oYzXnTR7ppkdksKBV0UZgAAA=='/%3E%3C/svg%3E&quot;)\" src=\"/_next/static/media/image.f5d950ca.webp\"></div><div class=\"relative z-10 mx-auto w-full max-w-6xl\"><div class=\"mb-12 text-center md:mb-16\" style=\"opacity:0;transform:translateY(30px)\"><p class=\"text-d-mono mb-4 text-white/50 uppercase\">For Large-Area Operators</p><h2 class=\"text-m-h2 md:text-d-h2 mb-5 text-balance\">Partner Program</h2><div class=\"mx-auto mb-7 h-px w-24 bg-white/20\"></div><p class=\"text-m-body-l md:text-d-body-l mx-auto max-w-2xl text-balance text-white/70\">Securing a large area is a problem of speed over distance. Helicopters don't scale. Patrols are slow. Fixed cameras watch one location. Short-range drones can't cover it. We are building a system to search entire regions and return a clear picture faster than any of them.</p></div><div class=\"rounded-3xl border border-white/10 bg-white/[0.02] px-6 py-12 md:px-12 md:py-16\"><div class=\"mb-14\"><h3 class=\"text-m-h3 md:text-d-h3 mb-5 text-white\">When Conventional Coverage Breaks Down</h3><p class=\"text-d-body-l mb-6 max-w-3xl text-white/60\">Our partners share the same operational reality:</p><ul class=\"grid grid-cols-1 gap-x-12 gap-y-3 lg:grid-cols-2\"><li class=\"flex items-center gap-3\"><span class=\"size-1.5 shrink-0 rounded-full bg-white/40\"></span><span class=\"text-d-body-l text-white/70\">Areas too large to watch continuously.</span></li><li class=\"flex items-center gap-3\"><span class=\"size-1.5 shrink-0 rounded-full bg-white/40\"></span><span class=\"text-d-body-l text-white/70\">Response times stretched thin by distance.</span></li><li class=\"flex items-center gap-3\"><span class=\"size-1.5 shrink-0 rounded-full bg-white/40\"></span><span class=\"text-d-body-l text-white/70\">No shared, real-time picture across teams.</span></li><li class=\"flex items-center gap-3\"><span class=\"size-1.5 shrink-0 rounded-full bg-white/40\"></span><span class=\"text-d-body-l text-white/70\">Threats faster than the response.</span></li><li class=\"flex items-center gap-3\"><span class=\"size-1.5 shrink-0 rounded-full bg-white/40\"></span><span class=\"text-d-body-l text-white/70\">Coverage that scales only with more crews.</span></li><li class=\"flex items-center gap-3\"><span class=\"size-1.5 shrink-0 rounded-full bg-white/40\"></span><span class=\"text-d-body-l text-white/70\">Ready to test and iterate alongside us.</span></li></ul></div><div class=\"mb-0\"><h3 class=\"text-m-h3 md:text-d-h3 mb-5 text-white\">Where It Works</h3><p class=\"text-d-body-l mb-6 max-w-3xl text-white/60\">Every one of these is a distance problem first. One platform covers all of them.</p><div class=\"grid grid-cols-2 gap-3 md:gap-4 lg:grid-cols-4\"><div class=\"flex items-center gap-3 rounded-xl border border-white/10 bg-white/[0.03] px-4 py-4\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"1em\" height=\"1em\" fill=\"currentColor\" viewBox=\"0 0 256 256\" class=\"size-5 shrink-0 text-white/60\"><path d=\"M200,168a32.06,32.06,0,0,0-31,24H72a32,32,0,0,1,0-64h96a40,40,0,0,0,0-80H72a8,8,0,0,0,0,16h96a24,24,0,0,1,0,48H72a48,48,0,0,0,0,96h97a32,32,0,1,0,31-40Zm0,48a16,16,0,1,1,16-16A16,16,0,0,1,200,216Z\"></path></svg><p class=\"text-d-body-s font-semibold text-white\">Long-Range Response</p></div><div class=\"flex items-center gap-3 rounded-xl border border-white/10 bg-white/[0.03] px-4 py-4\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"1em\" height=\"1em\" fill=\"currentColor\" viewBox=\"0 0 256 256\" class=\"size-5 shrink-0 text-white/60\"><path d=\"M247.31,124.76c-.35-.79-8.82-19.58-27.65-38.41C194.57,61.26,162.88,48,128,48S61.43,61.26,36.34,86.35C17.51,105.18,9,124,8.69,124.76a8,8,0,0,0,0,6.5c.35.79,8.82,19.57,27.65,38.4C61.43,194.74,93.12,208,128,208s66.57-13.26,91.66-38.34c18.83-18.83,27.3-37.61,27.65-38.4A8,8,0,0,0,247.31,124.76ZM128,192c-30.78,0-57.67-11.19-79.93-33.25A133.47,133.47,0,0,1,25,128,133.33,133.33,0,0,1,48.07,97.25C70.33,75.19,97.22,64,128,64s57.67,11.19,79.93,33.25A133.46,133.46,0,0,1,231.05,128C223.84,141.46,192.43,192,128,192Zm0-112a48,48,0,1,0,48,48A48.05,48.05,0,0,0,128,80Zm0,80a32,32,0,1,1,32-32A32,32,0,0,1,128,160Z\"></path></svg><p class=\"text-d-body-s font-semibold text-white\">Persistent Surveillance</p></div><div class=\"flex items-center gap-3 rounded-xl border border-white/10 bg-white/[0.03] px-4 py-4\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"1em\" height=\"1em\" fill=\"currentColor\" viewBox=\"0 0 256 256\" class=\"size-5 shrink-0 text-white/60\"><path d=\"M224,48H32a8,8,0,0,0-8,8V200a8,8,0,0,0,8,8H224a8,8,0,0,0,8-8V56A8,8,0,0,0,224,48ZM88,144V112h80v32Zm-48,0V112H72v32Zm144-32h32v32H184Zm32-16H136V64h80ZM120,64V96H40V64ZM40,160h80v32H40Zm96,32V160h80v32Z\"></path></svg><p class=\"text-d-body-s font-semibold text-white\">Border Operations</p></div><div class=\"flex items-center gap-3 rounded-xl border border-white/10 bg-white/[0.03] px-4 py-4\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"1em\" height=\"1em\" fill=\"currentColor\" viewBox=\"0 0 256 256\" class=\"size-5 shrink-0 text-white/60\"><path d=\"M222.16,177.25a8,8,0,0,1-1,11.25c-17.36,14.39-32.86,19.5-47,19.5-18.58,0-34.82-8.82-49.93-17-25.35-13.76-47.24-25.64-79.07.74a8,8,0,1,1-10.22-12.31c40.17-33.28,70.32-16.92,96.93-2.48,25.35,13.75,47.24,25.63,79.07-.74A8,8,0,0,1,222.16,177.25Zm-11.27-57c-31.83,26.38-53.72,14.5-79.07.74-26.61-14.43-56.76-30.79-96.93,2.49a8,8,0,0,0,10.22,12.31c31.83-26.38,53.72-14.5,79.07-.74,15.11,8.19,31.35,17,49.93,17,14.14,0,29.64-5.11,47-19.5a8,8,0,1,0-10.22-12.31ZM45.11,79.8c31.83-26.37,53.72-14.49,79.07-.74,15.11,8.2,31.35,17,49.93,17,14.14,0,29.64-5.12,47-19.5a8,8,0,1,0-10.22-12.31c-31.83,26.38-53.72,14.5-79.07.74C105.21,50.58,75.06,34.22,34.89,67.5A8,8,0,1,0,45.11,79.8Z\"></path></svg><p class=\"text-d-body-s font-semibold text-white\">Maritime Security</p></div><div class=\"flex items-center gap-3 rounded-xl border border-white/10 bg-white/[0.03] px-4 py-4\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"1em\" height=\"1em\" fill=\"currentColor\" viewBox=\"0 0 256 256\" class=\"size-5 shrink-0 text-white/60\"><path d=\"M215.79,118.17a8,8,0,0,0-5-5.66L153.18,90.9l14.66-73.33a8,8,0,0,0-13.69-7l-112,120a8,8,0,0,0,3,13l57.63,21.61L88.16,238.43a8,8,0,0,0,13.69,7l112-120A8,8,0,0,0,215.79,118.17ZM109.37,214l10.47-52.38a8,8,0,0,0-5-9.06L62,132.71l84.62-90.66L136.16,94.43a8,8,0,0,0,5,9.06l52.8,19.8Z\"></path></svg><p class=\"text-d-body-s font-semibold text-white\">Critical Infrastructure</p></div><div class=\"flex items-center gap-3 rounded-xl border border-white/10 bg-white/[0.03] px-4 py-4\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"1em\" height=\"1em\" fill=\"currentColor\" viewBox=\"0 0 256 256\" class=\"size-5 shrink-0 text-white/60\"><path d=\"M128,24A104,104,0,1,0,232,128,104.11,104.11,0,0,0,128,24Zm39.1,131.79a47.84,47.84,0,0,0,0-55.58l28.5-28.49a87.83,87.83,0,0,1,0,112.56ZM96,128a32,32,0,1,1,32,32A32,32,0,0,1,96,128Zm88.28-67.6L155.79,88.9a47.84,47.84,0,0,0-55.58,0L71.72,60.4a87.83,87.83,0,0,1,112.56,0ZM60.4,71.72l28.5,28.49a47.84,47.84,0,0,0,0,55.58L60.4,184.28a87.83,87.83,0,0,1,0-112.56ZM71.72,195.6l28.49-28.5a47.84,47.84,0,0,0,55.58,0l28.49,28.5a87.83,87.83,0,0,1-112.56,0Z\"></path></svg><p class=\"text-d-body-s font-semibold text-white\">Search &amp; Rescue</p></div><div class=\"flex items-center gap-3 rounded-xl border border-white/10 bg-white/[0.03] px-4 py-4\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"1em\" height=\"1em\" fill=\"currentColor\" viewBox=\"0 0 256 256\" class=\"size-5 shrink-0 text-white/60\"><path d=\"M183.89,153.34a57.6,57.6,0,0,1-46.56,46.55A8.75,8.75,0,0,1,136,200a8,8,0,0,1-1.32-15.89c16.57-2.79,30.63-16.85,33.44-33.45a8,8,0,0,1,15.78,2.68ZM216,144a88,88,0,0,1-176,0c0-27.92,11-56.47,32.66-84.85a8,8,0,0,1,11.93-.89l24.12,23.41,22-60.41a8,8,0,0,1,12.63-3.41C165.21,36,216,84.55,216,144Zm-16,0c0-46.09-35.79-85.92-58.21-106.33L119.52,98.74a8,8,0,0,1-13.09,3L80.06,76.16C64.09,99.21,56,122,56,144a72,72,0,0,0,144,0Z\"></path></svg><p class=\"text-d-body-s font-semibold text-white\">Wildfire Detection</p></div><div class=\"flex items-center gap-3 rounded-xl border border-white/10 bg-white/[0.03] px-4 py-4\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"1em\" height=\"1em\" fill=\"currentColor\" viewBox=\"0 0 256 256\" class=\"size-5 shrink-0 text-white/60\"><path d=\"M232,120h-8.34A96.14,96.14,0,0,0,136,32.34V24a8,8,0,0,0-16,0v8.34A96.14,96.14,0,0,0,32.34,120H24a8,8,0,0,0,0,16h8.34A96.14,96.14,0,0,0,120,223.66V232a8,8,0,0,0,16,0v-8.34A96.14,96.14,0,0,0,223.66,136H232a8,8,0,0,0,0-16Zm-96,87.6V200a8,8,0,0,0-16,0v7.6A80.15,80.15,0,0,1,48.4,136H56a8,8,0,0,0,0-16H48.4A80.15,80.15,0,0,1,120,48.4V56a8,8,0,0,0,16,0V48.4A80.15,80.15,0,0,1,207.6,120H200a8,8,0,0,0,0,16h7.6A80.15,80.15,0,0,1,136,207.6ZM128,88a40,40,0,1,0,40,40A40,40,0,0,0,128,88Zm0,64a24,24,0,1,1,24-24A24,24,0,0,1,128,152Z\"></path></svg><p class=\"text-d-body-s font-semibold text-white\">Military ISR</p></div></div></div></div><div class=\"mt-14 text-center\"><p class=\"text-d-body-s mb-5 text-white/40\">We're taking a handful of founding partners. Each deployment is hands-on.</p><button type=\"button\" class=\"text-d-cta inline-flex items-center gap-2 rounded-full border border-white/20 bg-white/10 px-7 py-3 text-white transition-colors hover:bg-white/20\" aria-haspopup=\"dialog\" aria-expanded=\"false\" aria-controls=\"radix-_R_5pbsnqbtb_\" data-state=\"closed\">Join the waitlist<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"1em\" height=\"1em\" fill=\"currentColor\" viewBox=\"0 0 256 256\" class=\"size-4.5\"><path d=\"M224.49,136.49l-72,72a12,12,0,0,1-17-17L187,140H40a12,12,0,0,1,0-24H187L135.51,64.48a12,12,0,0,1,17-17l72,72A12,12,0,0,1,224.49,136.49Z\"></path></svg></button></div></div></section><!--$--><!--/$--><div id=\"footer\" class=\"relative flex w-full flex-col items-center justify-between px-4 md:px-12 gap-16 border-t border-white/15 pt-16 lg:gap-32 lg:pt-24\"><div class=\"z-over-scroll-sequence flex w-full flex-col items-center gap-12 pb-8 md:flex-row md:items-end justify-center md:justify-between\"><div class=\"flex flex-col items-center gap-6 whitespace-nowrap md:contents\"><p class=\"text-d-cta order-last text-white/20 md:order-none md:hidden lg:block\">© USAvionix Inc. <!-- -->2026</p><div class=\"flex items-center gap-6 whitespace-nowrap md:gap-6.5\"><a target=\"_blank\" class=\"text-d-cta cursor-pointer underline decoration-1 underline-offset-2 hover:no-underline\" href=\"https://notes.usavionix.com\">Notes</a><button type=\"button\" aria-haspopup=\"dialog\" aria-expanded=\"false\" aria-controls=\"radix-_R_2lubtb_\" data-state=\"closed\" class=\"text-d-cta cursor-pointer underline decoration-1 underline-offset-2 hover:no-underline\">Privacy Policy</button><button type=\"button\" aria-haspopup=\"dialog\" aria-expanded=\"false\" aria-controls=\"radix-_R_3lubtb_\" data-state=\"closed\" class=\"text-d-cta cursor-pointer underline decoration-1 underline-offset-2 hover:no-underline\">Terms of Use</button></div></div></div></div>",
+    "sections": [
+      [
+        "p",
+        "For Large-Area Operators"
+      ],
+      [
+        "h2",
+        "Partner Program"
+      ],
+      [
+        "p",
+        "Securing a large area is a problem of speed over distance. Helicopters don't scale. Patrols are slow. Fixed cameras watch one location. Short-range drones can't cover it. We are building a system to search entire regions and return a clear picture faster than any of them."
+      ],
+      [
+        "h3",
+        "When Conventional Coverage Breaks Down"
+      ],
+      [
+        "p",
+        "Our partners share the same operational reality:"
+      ],
+      [
+        "h3",
+        "Where It Works"
+      ],
+      [
+        "p",
+        "Every one of these is a distance problem first. One platform covers all of them."
+      ],
+      [
+        "p",
+        "Long-Range Response"
+      ],
+      [
+        "p",
+        "Persistent Surveillance"
+      ],
+      [
+        "p",
+        "Border Operations"
+      ],
+      [
+        "p",
+        "Maritime Security"
+      ],
+      [
+        "p",
+        "Critical Infrastructure"
+      ],
+      [
+        "p",
+        "Search & Rescue"
+      ],
+      [
+        "p",
+        "Wildfire Detection"
+      ],
+      [
+        "p",
+        "Military ISR"
+      ],
+      [
+        "p",
+        "We're taking a handful of founding partners. Each deployment is hands-on."
+      ],
+      [
+        "p",
+        "© USAvionix Inc. 2026"
+      ]
+    ]
+  },
+  "phalanx": {
+    "title": "Phalanx AI | USAvionix",
+    "html": "<button type=\"button\" aria-label=\"Close\" class=\"z-info fixed top-[calc(var(--nav-height)+0.75rem)] right-4 flex size-10 cursor-pointer items-center justify-center text-white transition-colors duration-200 hover:text-white/50 md:right-8\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"1em\" height=\"1em\" fill=\"currentColor\" viewBox=\"0 0 256 256\" class=\"size-6\"><path d=\"M208.49,191.51a12,12,0,0,1-17,17L128,145,64.49,208.49a12,12,0,0,1-17-17L111,128,47.51,64.49a12,12,0,0,1,17-17L128,111l63.51-63.52a12,12,0,0,1,17,17L145,128Z\"></path></svg></button><section class=\"mx-auto flex min-h-[calc(100svh-var(--nav-height))] w-full flex-col bg-black lg:grid lg:grid-cols-[37.3125rem_1fr]\"><div class=\"relative flex flex-col pt-4 pb-8 md:pt-0 md:pb-8 lg:pt-28.75 lg:pb-16\"><div class=\"flex flex-col gap-4 px-4 md:gap-8 md:px-8 lg:ml-auto lg:max-w-125.25 lg:px-0\"><h1 class=\"md:text-d-h1 text-m-h1\">Phalanx AI</h1><div class=\"flex flex-col gap-4 md:gap-6\"><h2 class=\"md:text-d-h3 text-m-h3\">The AI command layer that unifies sensor data, coordinates autonomous fleets, and turns real-time intelligence into action.</h2><div class=\"md:text-d-body-l text-m-body-l text-white/80\"><div class=\"flex flex-col gap-8 md:gap-16\"><p>Phalanx AI delivers real-time mission intelligence and coordination. Powered by SARA, operators speak intent while the system adapts, routes, and integrates across connected platforms.</p><div><div class=\"relative flex py-3 after:absolute after:inset-0 after:border-t after:border-white/40\"><p class=\"text-m-body-s md:text-d-body-s w-full max-w-28.75 text-white md:max-w-35.5\">Unified Intelligence</p><p class=\"text-m-body-s md:text-d-body-s text-white/80\">Merges sensor data, maps, and external signals into one real-time operational picture.</p></div><div class=\"relative flex py-3 after:absolute after:inset-0 after:border-t after:border-white/40\"><p class=\"text-m-body-s md:text-d-body-s w-full max-w-28.75 text-white md:max-w-35.5\">Autonomous Command</p><p class=\"text-m-body-s md:text-d-body-s text-white/80\">Directs single units or large swarms with adaptive, real-time decision-making.</p></div><div class=\"relative flex py-3 after:absolute after:inset-0 after:border-t after:border-white/40\"><p class=\"text-m-body-s md:text-d-body-s w-full max-w-28.75 text-white md:max-w-35.5\">Seamless Integration</p><p class=\"text-m-body-s md:text-d-body-s text-white/80\">Works across existing systems via extensible SDKs and APIs.</p></div></div></div></div></div></div></div><div class=\"relative z-10 order-first aspect-[390/310] w-full p-12 lg:sticky lg:top-[var(--nav-height)] lg:order-last lg:aspect-auto lg:h-[calc(100vh-var(--nav-height))]\"><div class=\"absolute inset-0 z-10\"><img alt=\"\" decoding=\"async\" data-nimg=\"fill\" class=\"[mask-image:linear-gradient(180deg,_#D9D9D9_50%,_rgba(115,_115,_115,_0)_100%)] object-cover lg:[mask-image:linear-gradient(270deg,_#D9D9D9_50%,_rgba(115,_115,_115,_0)_100%)]\" style=\"position:absolute;height:100%;width:100%;left:0;top:0;right:0;bottom:0;color:transparent;background-size:cover;background-position:50% 50%;background-repeat:no-repeat;background-image:url(&quot;data:image/svg+xml;charset=utf-8,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 160'%3E%3Cfilter id='b' color-interpolation-filters='sRGB'%3E%3CfeGaussianBlur stdDeviation='20'/%3E%3CfeColorMatrix values='1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 100 -1' result='s'/%3E%3CfeFlood x='0' y='0' width='100%25' height='100%25'/%3E%3CfeComposite operator='out' in='s'/%3E%3CfeComposite in2='SourceGraphic'/%3E%3CfeGaussianBlur stdDeviation='20'/%3E%3C/filter%3E%3Cimage width='100%25' height='100%25' x='0' y='0' preserveAspectRatio='none' style='filter: url(%23b);' href='data:image/webp;base64,UklGRlIAAABXRUJQVlA4WAoAAAAQAAAABwAAAwAAQUxQSAoAAAABB1DZiAhERP8DVlA4ICIAAAAwAQCdASoIAAQAAkA4JaQAA3AA/vnaWV/ebgP9EStT7AAA'/%3E%3C/svg%3E&quot;)\" src=\"/_next/static/media/image.e5c156a2.webp\"></div></div></section><!--$--><!--/$--><div id=\"footer\" class=\"relative flex w-full flex-col items-center justify-between px-4 md:px-12 gap-16 border-t border-white/15 pt-16 lg:gap-32 lg:pt-24\"><div class=\"z-over-scroll-sequence flex w-full flex-col items-center gap-12 pb-8 md:flex-row md:items-end justify-between\"><div class=\"flex max-w-94 flex-col items-center gap-5 text-center md:items-start md:text-left\"><p class=\"text-d-h3 text-white\">Ready to talk to us?</p><button class=\"text-d-cta pointer-events-auto flex cursor-pointer items-center justify-between rounded-full bg-white/25 px-5 py-3 -outline-offset-1 hover:bg-white/30 focus-visible:bg-white/25 focus-visible:shadow-none focus-visible:outline-1 focus-visible:outline-white active:bg-white/25 disabled:bg-white/0 disabled:text-white/40 disabled:outline-1 disabled:outline-white/40 w-full md:w-auto\">Contact Us<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"1em\" height=\"1em\" fill=\"currentColor\" viewBox=\"0 0 256 256\" class=\"size-4.5\"><path d=\"M224.49,136.49l-72,72a12,12,0,0,1-17-17L187,140H40a12,12,0,0,1,0-24H187L135.51,64.48a12,12,0,0,1,17-17l72,72A12,12,0,0,1,224.49,136.49Z\"></path></svg></button></div><div class=\"flex flex-col items-center gap-6 whitespace-nowrap md:contents\"><p class=\"text-d-cta order-last text-white/20 md:order-none md:hidden lg:block\">© USAvionix Inc. <!-- -->2026</p><div class=\"flex items-center gap-6 whitespace-nowrap md:gap-6.5\"><a target=\"_blank\" class=\"text-d-cta cursor-pointer underline decoration-1 underline-offset-2 hover:no-underline\" href=\"https://notes.usavionix.com\">Notes</a><button type=\"button\" aria-haspopup=\"dialog\" aria-expanded=\"false\" aria-controls=\"radix-_R_2lubtb_\" data-state=\"closed\" class=\"text-d-cta cursor-pointer underline decoration-1 underline-offset-2 hover:no-underline\">Privacy Policy</button><button type=\"button\" aria-haspopup=\"dialog\" aria-expanded=\"false\" aria-controls=\"radix-_R_3lubtb_\" data-state=\"closed\" class=\"text-d-cta cursor-pointer underline decoration-1 underline-offset-2 hover:no-underline\">Terms of Use</button></div></div></div></div>",
+    "sections": [
+      [
+        "h1",
+        "Phalanx AI"
+      ],
+      [
+        "h2",
+        "The AI command layer that unifies sensor data, coordinates autonomous fleets, and turns real-time intelligence into action."
+      ],
+      [
+        "p",
+        "Phalanx AI delivers real-time mission intelligence and coordination. Powered by SARA, operators speak intent while the system adapts, routes, and integrates across connected platforms."
+      ],
+      [
+        "p",
+        "Unified Intelligence"
+      ],
+      [
+        "p",
+        "Merges sensor data, maps, and external signals into one real-time operational picture."
+      ],
+      [
+        "p",
+        "Autonomous Command"
+      ],
+      [
+        "p",
+        "Directs single units or large swarms with adaptive, real-time decision-making."
+      ],
+      [
+        "p",
+        "Seamless Integration"
+      ],
+      [
+        "p",
+        "Works across existing systems via extensible SDKs and APIs."
+      ],
+      [
+        "p",
+        "Ready to talk to us?"
+      ],
+      [
+        "p",
+        "© USAvionix Inc. 2026"
+      ]
+    ]
+  },
+  "sara": {
+    "title": "SARA | USAvionix",
+    "html": "<button type=\"button\" aria-label=\"Close\" class=\"z-info fixed top-[calc(var(--nav-height)+0.75rem)] right-4 flex size-10 cursor-pointer items-center justify-center text-white transition-colors duration-200 hover:text-white/50 md:right-8\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"1em\" height=\"1em\" fill=\"currentColor\" viewBox=\"0 0 256 256\" class=\"size-6\"><path d=\"M208.49,191.51a12,12,0,0,1-17,17L128,145,64.49,208.49a12,12,0,0,1-17-17L111,128,47.51,64.49a12,12,0,0,1,17-17L128,111l63.51-63.52a12,12,0,0,1,17,17L145,128Z\"></path></svg></button><section class=\"mx-auto flex min-h-[calc(100svh-var(--nav-height))] w-full flex-col bg-black lg:grid lg:grid-cols-[37.3125rem_1fr]\"><div class=\"relative flex flex-col pt-4 pb-8 md:pt-0 md:pb-8 lg:pt-28.75 lg:pb-16\"><div class=\"flex flex-col gap-4 px-4 md:gap-8 md:px-8 lg:ml-auto lg:max-w-125.25 lg:px-0\"><h1 class=\"md:text-d-h1 text-m-h1\">SARA</h1><div class=\"flex flex-col gap-4 md:gap-6\"><h2 class=\"md:text-d-h3 text-m-h3\">Strategic Autonomous Recon Agent: natural-language mission control that converts plain-English commands into real-time autonomous execution.</h2><div class=\"md:text-d-body-l text-m-body-l text-white/80\"><div class=\"flex flex-col gap-8 md:gap-16\"><p>SARA converts spoken instructions into mission logic, optimizing routes, coordinating fleets, and adapting as conditions change.</p><div><div class=\"relative flex py-3 after:absolute after:inset-0 after:border-t after:border-white/40\"><p class=\"text-m-body-s md:text-d-body-s w-full max-w-28.75 text-white md:max-w-35.5\">Natural Commands</p><p class=\"text-m-body-s md:text-d-body-s text-white/80\">State objectives in plain English; SARA converts them into mission logic instantly.</p></div><div class=\"relative flex py-3 after:absolute after:inset-0 after:border-t after:border-white/40\"><p class=\"text-m-body-s md:text-d-body-s w-full max-w-28.75 text-white md:max-w-35.5\">Contextual Reasoning</p><p class=\"text-m-body-s md:text-d-body-s text-white/80\">Understands environment, intent, and constraints to make informed decisions.</p></div><div class=\"relative flex py-3 after:absolute after:inset-0 after:border-t after:border-white/40\"><p class=\"text-m-body-s md:text-d-body-s w-full max-w-28.75 text-white md:max-w-35.5\">Adaptive Execution</p><p class=\"text-m-body-s md:text-d-body-s text-white/80\">Adjusts routing, sensing, and priorities dynamically as situations evolve.</p></div></div></div></div></div></div></div><div class=\"relative z-10 order-first aspect-[390/310] w-full p-12 lg:sticky lg:top-[var(--nav-height)] lg:order-last lg:aspect-auto lg:h-[calc(100vh-var(--nav-height))]\"><div class=\"absolute inset-0 z-10\"><div class=\"flex h-full w-full items-center justify-center\"><div class=\"w-full\"><div class=\"sara_carousel transition-opacity opacity-0\"><div class=\"sara_carousel__viewport\"><div class=\"sara_carousel__container\"><div class=\"sara_carousel__slide py-4\"><div class=\"sara_carousel__slide__number relative overflow-hidden rounded-lg after:absolute after:inset-0 after:rounded-lg after:border after:border-white/15\"><img alt=\"\" decoding=\"async\" data-nimg=\"fill\" style=\"position:absolute;height:100%;width:100%;left:0;top:0;right:0;bottom:0;color:transparent;background-size:cover;background-position:50% 50%;background-repeat:no-repeat;background-image:url(&quot;data:image/svg+xml;charset=utf-8,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 240 320'%3E%3Cfilter id='b' color-interpolation-filters='sRGB'%3E%3CfeGaussianBlur stdDeviation='20'/%3E%3CfeColorMatrix values='1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 100 -1' result='s'/%3E%3CfeFlood x='0' y='0' width='100%25' height='100%25'/%3E%3CfeComposite operator='out' in='s'/%3E%3CfeComposite in2='SourceGraphic'/%3E%3CfeGaussianBlur stdDeviation='20'/%3E%3C/filter%3E%3Cimage width='100%25' height='100%25' x='0' y='0' preserveAspectRatio='none' style='filter: url(%23b);' href='data:image/webp;base64,UklGRjAAAABXRUJQVlA4ICQAAACwAQCdASoGAAgAAkA4JaQAAucPWdAAAP74bFlLIkO2Gf2gAAA='/%3E%3C/svg%3E&quot;)\" src=\"/_next/static/media/slide-1.3cbb161c.webp\"></div></div><div class=\"sara_carousel__slide py-4\"><div class=\"sara_carousel__slide__number relative overflow-hidden rounded-lg after:absolute after:inset-0 after:rounded-lg after:border after:border-white/15\"><img alt=\"\" decoding=\"async\" data-nimg=\"fill\" style=\"position:absolute;height:100%;width:100%;left:0;top:0;right:0;bottom:0;color:transparent;background-size:cover;background-position:50% 50%;background-repeat:no-repeat;background-image:url(&quot;data:image/svg+xml;charset=utf-8,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 240 320'%3E%3Cfilter id='b' color-interpolation-filters='sRGB'%3E%3CfeGaussianBlur stdDeviation='20'/%3E%3CfeColorMatrix values='1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 100 -1' result='s'/%3E%3CfeFlood x='0' y='0' width='100%25' height='100%25'/%3E%3CfeComposite operator='out' in='s'/%3E%3CfeComposite in2='SourceGraphic'/%3E%3CfeGaussianBlur stdDeviation='20'/%3E%3C/filter%3E%3Cimage width='100%25' height='100%25' x='0' y='0' preserveAspectRatio='none' style='filter: url(%23b);' href='data:image/webp;base64,UklGRjAAAABXRUJQVlA4ICQAAACwAQCdASoGAAgAAkA4JaQAAucPWdAAAP74bFlLIkO2Gf2gAAA='/%3E%3C/svg%3E&quot;)\" src=\"/_next/static/media/slide-2.3cbb161c.webp\"></div></div><div class=\"sara_carousel__slide py-4\"><div class=\"sara_carousel__slide__number relative overflow-hidden rounded-lg after:absolute after:inset-0 after:rounded-lg after:border after:border-white/15\"><img alt=\"\" decoding=\"async\" data-nimg=\"fill\" style=\"position:absolute;height:100%;width:100%;left:0;top:0;right:0;bottom:0;color:transparent;background-size:cover;background-position:50% 50%;background-repeat:no-repeat;background-image:url(&quot;data:image/svg+xml;charset=utf-8,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 240 320'%3E%3Cfilter id='b' color-interpolation-filters='sRGB'%3E%3CfeGaussianBlur stdDeviation='20'/%3E%3CfeColorMatrix values='1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 100 -1' result='s'/%3E%3CfeFlood x='0' y='0' width='100%25' height='100%25'/%3E%3CfeComposite operator='out' in='s'/%3E%3CfeComposite in2='SourceGraphic'/%3E%3CfeGaussianBlur stdDeviation='20'/%3E%3C/filter%3E%3Cimage width='100%25' height='100%25' x='0' y='0' preserveAspectRatio='none' style='filter: url(%23b);' href='data:image/webp;base64,UklGRjAAAABXRUJQVlA4ICQAAACwAQCdASoGAAgAAkA4JaQAAucPWdAAAP74bFlLIkO2Gf2gAAA='/%3E%3C/svg%3E&quot;)\" src=\"/_next/static/media/slide-3.3cbb161c.webp\"></div></div><div class=\"sara_carousel__slide py-4\"><div class=\"sara_carousel__slide__number relative overflow-hidden rounded-lg after:absolute after:inset-0 after:rounded-lg after:border after:border-white/15\"><img alt=\"\" decoding=\"async\" data-nimg=\"fill\" style=\"position:absolute;height:100%;width:100%;left:0;top:0;right:0;bottom:0;color:transparent;background-size:cover;background-position:50% 50%;background-repeat:no-repeat;background-image:url(&quot;data:image/svg+xml;charset=utf-8,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 240 320'%3E%3Cfilter id='b' color-interpolation-filters='sRGB'%3E%3CfeGaussianBlur stdDeviation='20'/%3E%3CfeColorMatrix values='1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 100 -1' result='s'/%3E%3CfeFlood x='0' y='0' width='100%25' height='100%25'/%3E%3CfeComposite operator='out' in='s'/%3E%3CfeComposite in2='SourceGraphic'/%3E%3CfeGaussianBlur stdDeviation='20'/%3E%3C/filter%3E%3Cimage width='100%25' height='100%25' x='0' y='0' preserveAspectRatio='none' style='filter: url(%23b);' href='data:image/webp;base64,UklGRjAAAABXRUJQVlA4ICQAAACwAQCdASoGAAgAAkA4JaQAAucPWdAAAP74bFlLIkO2Gf2gAAA='/%3E%3C/svg%3E&quot;)\" src=\"/_next/static/media/slide-1.3cbb161c.webp\"></div></div><div class=\"sara_carousel__slide py-4\"><div class=\"sara_carousel__slide__number relative overflow-hidden rounded-lg after:absolute after:inset-0 after:rounded-lg after:border after:border-white/15\"><img alt=\"\" decoding=\"async\" data-nimg=\"fill\" style=\"position:absolute;height:100%;width:100%;left:0;top:0;right:0;bottom:0;color:transparent;background-size:cover;background-position:50% 50%;background-repeat:no-repeat;background-image:url(&quot;data:image/svg+xml;charset=utf-8,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 240 320'%3E%3Cfilter id='b' color-interpolation-filters='sRGB'%3E%3CfeGaussianBlur stdDeviation='20'/%3E%3CfeColorMatrix values='1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 100 -1' result='s'/%3E%3CfeFlood x='0' y='0' width='100%25' height='100%25'/%3E%3CfeComposite operator='out' in='s'/%3E%3CfeComposite in2='SourceGraphic'/%3E%3CfeGaussianBlur stdDeviation='20'/%3E%3C/filter%3E%3Cimage width='100%25' height='100%25' x='0' y='0' preserveAspectRatio='none' style='filter: url(%23b);' href='data:image/webp;base64,UklGRjAAAABXRUJQVlA4ICQAAACwAQCdASoGAAgAAkA4JaQAAucPWdAAAP74bFlLIkO2Gf2gAAA='/%3E%3C/svg%3E&quot;)\" src=\"/_next/static/media/slide-2.3cbb161c.webp\"></div></div><div class=\"sara_carousel__slide py-4\"><div class=\"sara_carousel__slide__number relative overflow-hidden rounded-lg after:absolute after:inset-0 after:rounded-lg after:border after:border-white/15\"><img alt=\"\" decoding=\"async\" data-nimg=\"fill\" style=\"position:absolute;height:100%;width:100%;left:0;top:0;right:0;bottom:0;color:transparent;background-size:cover;background-position:50% 50%;background-repeat:no-repeat;background-image:url(&quot;data:image/svg+xml;charset=utf-8,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 240 320'%3E%3Cfilter id='b' color-interpolation-filters='sRGB'%3E%3CfeGaussianBlur stdDeviation='20'/%3E%3CfeColorMatrix values='1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 100 -1' result='s'/%3E%3CfeFlood x='0' y='0' width='100%25' height='100%25'/%3E%3CfeComposite operator='out' in='s'/%3E%3CfeComposite in2='SourceGraphic'/%3E%3CfeGaussianBlur stdDeviation='20'/%3E%3C/filter%3E%3Cimage width='100%25' height='100%25' x='0' y='0' preserveAspectRatio='none' style='filter: url(%23b);' href='data:image/webp;base64,UklGRjAAAABXRUJQVlA4ICQAAACwAQCdASoGAAgAAkA4JaQAAucPWdAAAP74bFlLIkO2Gf2gAAA='/%3E%3C/svg%3E&quot;)\" src=\"/_next/static/media/slide-3.3cbb161c.webp\"></div></div></div></div><div class=\"pointer-events-none absolute inset-0 bg-[linear-gradient(to_right,_var(--tw-gradient-to)_0%,_var(--tw-gradient-via)_25%,_var(--tw-gradient-via)_75%,_var(--tw-gradient-to)_100%)] from-black via-transparent to-black\"></div></div></div></div></div></div></section><!--$--><!--/$--><div id=\"footer\" class=\"relative flex w-full flex-col items-center justify-between px-4 md:px-12 gap-16 border-t border-white/15 pt-16 lg:gap-32 lg:pt-24\"><div class=\"z-over-scroll-sequence flex w-full flex-col items-center gap-12 pb-8 md:flex-row md:items-end justify-between\"><div class=\"flex max-w-94 flex-col items-center gap-5 text-center md:items-start md:text-left\"><p class=\"text-d-h3 text-white\">Ready to talk to us?</p><button class=\"text-d-cta pointer-events-auto flex cursor-pointer items-center justify-between rounded-full bg-white/25 px-5 py-3 -outline-offset-1 hover:bg-white/30 focus-visible:bg-white/25 focus-visible:shadow-none focus-visible:outline-1 focus-visible:outline-white active:bg-white/25 disabled:bg-white/0 disabled:text-white/40 disabled:outline-1 disabled:outline-white/40 w-full md:w-auto\">Contact Us<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"1em\" height=\"1em\" fill=\"currentColor\" viewBox=\"0 0 256 256\" class=\"size-4.5\"><path d=\"M224.49,136.49l-72,72a12,12,0,0,1-17-17L187,140H40a12,12,0,0,1,0-24H187L135.51,64.48a12,12,0,0,1,17-17l72,72A12,12,0,0,1,224.49,136.49Z\"></path></svg></button></div><div class=\"flex flex-col items-center gap-6 whitespace-nowrap md:contents\"><p class=\"text-d-cta order-last text-white/20 md:order-none md:hidden lg:block\">© USAvionix Inc. <!-- -->2026</p><div class=\"flex items-center gap-6 whitespace-nowrap md:gap-6.5\"><a target=\"_blank\" class=\"text-d-cta cursor-pointer underline decoration-1 underline-offset-2 hover:no-underline\" href=\"https://notes.usavionix.com\">Notes</a><button type=\"button\" aria-haspopup=\"dialog\" aria-expanded=\"false\" aria-controls=\"radix-_R_2lubtb_\" data-state=\"closed\" class=\"text-d-cta cursor-pointer underline decoration-1 underline-offset-2 hover:no-underline\">Privacy Policy</button><button type=\"button\" aria-haspopup=\"dialog\" aria-expanded=\"false\" aria-controls=\"radix-_R_3lubtb_\" data-state=\"closed\" class=\"text-d-cta cursor-pointer underline decoration-1 underline-offset-2 hover:no-underline\">Terms of Use</button></div></div></div></div>",
+    "sections": [
+      [
+        "h1",
+        "SARA"
+      ],
+      [
+        "h2",
+        "Strategic Autonomous Recon Agent: natural-language mission control that converts plain-English commands into real-time autonomous execution."
+      ],
+      [
+        "p",
+        "SARA converts spoken instructions into mission logic, optimizing routes, coordinating fleets, and adapting as conditions change."
+      ],
+      [
+        "p",
+        "Natural Commands"
+      ],
+      [
+        "p",
+        "State objectives in plain English; SARA converts them into mission logic instantly."
+      ],
+      [
+        "p",
+        "Contextual Reasoning"
+      ],
+      [
+        "p",
+        "Understands environment, intent, and constraints to make informed decisions."
+      ],
+      [
+        "p",
+        "Adaptive Execution"
+      ],
+      [
+        "p",
+        "Adjusts routing, sensing, and priorities dynamically as situations evolve."
+      ],
+      [
+        "p",
+        "Ready to talk to us?"
+      ],
+      [
+        "p",
+        "© USAvionix Inc. 2026"
+      ]
+    ]
+  }
+}

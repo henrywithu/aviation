@@ -1,0 +1,1 @@
+(e,t,r)=>{r.d(t,{X:()=>a});var n=r(98461),i=r(90638),l=r(74659);class a extends n.b{constructor(e=new i.v,t=new l.G({color:0xffffff*Math.random()})){super(e,t),this.isLine2=!0,this.type="Line2"}}}

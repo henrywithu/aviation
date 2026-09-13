@@ -1,0 +1,1 @@
+(t,e,i)=>{let n;i.d(e,{k:()=>o});var s=i(52800),r=i(51588);function a(){n=void 0}let o={now:()=>(void 0===n&&o.set(r.uv.isProcessing||s.W.useManualTiming?r.uv.timestamp:performance.now()),n),set:t=>{n=t,queueMicrotask(a)}}}

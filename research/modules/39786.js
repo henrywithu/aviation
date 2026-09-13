@@ -1,0 +1,1 @@
+(e,t,n)=>{n.d(t,{y:()=>u});let r=e=>{let t,n=new Set,r=(e,r)=>{let u="function"==typeof e?e(t):e;if(!Object.is(u,t)){let e=t;t=(null!=r?r:"object"!=typeof u||null===u)?u:Object.assign({},t,u),n.forEach(n=>n(t,e))}},u=()=>t,i={setState:r,getState:u,getInitialState:()=>l,subscribe:e=>(n.add(e),()=>n.delete(e))},l=t=e(r,u,i);return i},u=e=>e?r(e):r}

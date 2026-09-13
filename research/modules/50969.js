@@ -1,0 +1,1 @@
+(e,t,n)=>{function r(e){let{reason:t,children:n}=e;return n}Object.defineProperty(t,"__esModule",{value:!0}),Object.defineProperty(t,"BailoutToCSR",{enumerable:!0,get:function(){return r}}),n(95245)}

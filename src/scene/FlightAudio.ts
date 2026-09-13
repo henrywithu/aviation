@@ -1,0 +1,7 @@
+const files={engine:['delta-jet.mp3',.54],jetWind:['jet-wind.mp3',.67],windLeft:['jet-wind-left.mp3',.67],windRight:['jet-wind-right.mp3',.65]} as const;
+export class FlightAudio{
+ private context?:AudioContext;private nodes=new Map<string,{gain:GainNode;source:AudioBufferSourceNode;volume:number}>();private disposed=false;
+ start(){if(this.context)return;const context=new AudioContext();this.context=context;Object.entries(files).forEach(async([key,[file]])=>{try{const response=await fetch('/assets/sounds/'+file);const buffer=await context.decodeAudioData(await response.arrayBuffer());if(this.disposed)return;const gain=context.createGain();gain.gain.value=0;gain.connect(context.destination);const source=context.createBufferSource();source.buffer=buffer;source.loop=true;source.connect(gain);source.start();this.nodes.set(key,{gain,source,volume:0})}catch(e){console.warn('Unable to load flight audio',e)}})}
+ update(boost:boolean,left:boolean,right:boolean){const active={engine:boost,jetWind:boost,windLeft:left,windRight:right};for(const [key,node]of this.nodes){node.volume+=((active[key as keyof typeof active]?1:0)-node.volume)*(active[key as keyof typeof active]?.05:.18);if(node.volume<.01)node.volume=0;node.gain.gain.value=node.volume*files[key as keyof typeof files][1];if(key==='engine')node.source.playbackRate.value=.85+.4*node.volume}}
+ dispose(){this.disposed=true;this.nodes.forEach(n=>n.source.stop());void this.context?.close()}
+}

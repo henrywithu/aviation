@@ -1,0 +1,1 @@
+(e,n,t)=>{t.d(n,{A:()=>l});let l="#define GLSLIFY 1\nvarying vec2 vUv;\n\nvoid main() {\n    vUv = uv;\n    gl_Position = vec4(position.x, position.y, 0.0, 1.0);\n}"}

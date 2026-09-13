@@ -1,0 +1,1 @@
+(t,e,i)=>{i.d(e,{Y:()=>n,t:()=>s});let n=2e4;function s(t){let e=0,i=t.next(e);for(;!i.done&&e<n;)e+=50,i=t.next(e);return e>=n?1/0:e}}

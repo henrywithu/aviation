@@ -1,0 +1,1 @@
+(e,t,r)=>{Object.defineProperty(t,"__esModule",{value:!0}),Object.defineProperty(t,"AmpStateContext",{enumerable:!0,get:function(){return n}});let n=r(88208)._(r(48947)).default.createContext({})}

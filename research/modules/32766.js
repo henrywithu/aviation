@@ -1,0 +1,1 @@
+(e,t,r)=>{r.d(t,{d:()=>o});var n=r(18133),i=r(48947),l=r(50207),a=r(3864);function o(e){let t=(0,a.M)(()=>(0,n.OQ)(e)),{isStatic:r}=(0,i.useContext)(l.Q);if(r){let[,r]=(0,i.useState)(e);(0,i.useEffect)(()=>t.on("change",r),[])}return t}}

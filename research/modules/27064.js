@@ -1,0 +1,1 @@
+(t,e,i)=>{i.d(e,{k:()=>n});let{schedule:n}=(0,i(39228).I)(queueMicrotask,!1)}

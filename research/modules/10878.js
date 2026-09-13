@@ -1,0 +1,1 @@
+(e,t,a)=>{Promise.resolve().then(a.bind(a,28866)),Promise.resolve().then(a.bind(a,98868))}

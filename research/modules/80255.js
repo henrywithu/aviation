@@ -1,0 +1,1 @@
+(t,e,i)=>{i.d(e,{g:()=>r});var n=i(52800),s=i(59892);function r(t,e){let i=t.getValue("willChange");if((0,s.S)(i)&&i.add)return i.add(e);if(!i&&n.W.WillChange){let i=new n.W.WillChange("auto");t.addValue("willChange",i),i.add(e)}}}

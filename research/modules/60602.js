@@ -1,0 +1,1 @@
+(t,e,i)=>{i.d(e,{F:()=>s});let n=(t,e)=>i=>e(t(i)),s=(...t)=>t.reduce(n)}

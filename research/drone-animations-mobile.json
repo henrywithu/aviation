@@ -1,0 +1,447 @@
+{
+  "asset": {
+    "generator": "Khronos glTF Blender I/O v5.0.21",
+    "version": "2.0"
+  },
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Scene",
+      "nodes": [
+        0,
+        1,
+        2
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "name": "Drone-mobile",
+      "rotation": [
+        0.005500335246324539,
+        0.999984860420227,
+        0.0002587138151284307,
+        1.6177324368982227e-06
+      ],
+      "translation": [
+        -0.005623299162834883,
+        0.0025904790963977575,
+        -7.395669937133789
+      ]
+    },
+    {
+      "name": "Drone.002-mobile"
+    },
+    {
+      "name": "Drone.001-mobile",
+      "rotation": [
+        0.3597789704799652,
+        0.933037519454956,
+        0.0003485810593701899,
+        0.00013456738088279963
+      ],
+      "translation": [
+        -6.641165733337402,
+        -1.0593740940093994,
+        -1.393140196800232
+      ]
+    }
+  ],
+  "animations": [
+    {
+      "channels": [
+        {
+          "sampler": 0,
+          "target": {
+            "node": 0,
+            "path": "translation"
+          }
+        },
+        {
+          "sampler": 1,
+          "target": {
+            "node": 0,
+            "path": "rotation"
+          }
+        }
+      ],
+      "name": "Drone01-01",
+      "samplers": [
+        {
+          "input": 0,
+          "interpolation": "LINEAR",
+          "output": 1
+        },
+        {
+          "input": 0,
+          "interpolation": "LINEAR",
+          "output": 2
+        }
+      ]
+    },
+    {
+      "channels": [
+        {
+          "sampler": 0,
+          "target": {
+            "node": 1,
+            "path": "translation"
+          }
+        },
+        {
+          "sampler": 1,
+          "target": {
+            "node": 1,
+            "path": "rotation"
+          }
+        }
+      ],
+      "name": "Drone03-02",
+      "samplers": [
+        {
+          "input": 3,
+          "interpolation": "LINEAR",
+          "output": 4
+        },
+        {
+          "input": 3,
+          "interpolation": "LINEAR",
+          "output": 5
+        }
+      ]
+    },
+    {
+      "channels": [
+        {
+          "sampler": 0,
+          "target": {
+            "node": 1,
+            "path": "translation"
+          }
+        },
+        {
+          "sampler": 1,
+          "target": {
+            "node": 1,
+            "path": "rotation"
+          }
+        }
+      ],
+      "name": "Drone03-01",
+      "samplers": [
+        {
+          "input": 6,
+          "interpolation": "LINEAR",
+          "output": 7
+        },
+        {
+          "input": 6,
+          "interpolation": "LINEAR",
+          "output": 8
+        }
+      ]
+    },
+    {
+      "channels": [
+        {
+          "sampler": 0,
+          "target": {
+            "node": 2,
+            "path": "translation"
+          }
+        },
+        {
+          "sampler": 1,
+          "target": {
+            "node": 2,
+            "path": "rotation"
+          }
+        }
+      ],
+      "name": "Drone02-03",
+      "samplers": [
+        {
+          "input": 9,
+          "interpolation": "LINEAR",
+          "output": 10
+        },
+        {
+          "input": 9,
+          "interpolation": "LINEAR",
+          "output": 11
+        }
+      ]
+    },
+    {
+      "channels": [
+        {
+          "sampler": 0,
+          "target": {
+            "node": 2,
+            "path": "translation"
+          }
+        },
+        {
+          "sampler": 1,
+          "target": {
+            "node": 2,
+            "path": "rotation"
+          }
+        }
+      ],
+      "name": "Drone02-02",
+      "samplers": [
+        {
+          "input": 3,
+          "interpolation": "LINEAR",
+          "output": 12
+        },
+        {
+          "input": 3,
+          "interpolation": "LINEAR",
+          "output": 13
+        }
+      ]
+    },
+    {
+      "channels": [
+        {
+          "sampler": 0,
+          "target": {
+            "node": 2,
+            "path": "translation"
+          }
+        },
+        {
+          "sampler": 1,
+          "target": {
+            "node": 2,
+            "path": "rotation"
+          }
+        }
+      ],
+      "name": "Drone02-01",
+      "samplers": [
+        {
+          "input": 9,
+          "interpolation": "LINEAR",
+          "output": 14
+        },
+        {
+          "input": 9,
+          "interpolation": "LINEAR",
+          "output": 15
+        }
+      ]
+    }
+  ],
+  "accessors": [
+    {
+      "bufferView": 0,
+      "componentType": 5126,
+      "count": 53,
+      "max": [
+        2.1666666666666665
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 53,
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 53,
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 46,
+      "max": [
+        1.875
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 4,
+      "componentType": 5126,
+      "count": 46,
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 5,
+      "componentType": 5126,
+      "count": 46,
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 6,
+      "componentType": 5126,
+      "count": 80,
+      "max": [
+        3.2916666666666665
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 7,
+      "componentType": 5126,
+      "count": 80,
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 8,
+      "componentType": 5126,
+      "count": 80,
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 9,
+      "componentType": 5126,
+      "count": 71,
+      "max": [
+        2.9166666666666665
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 10,
+      "componentType": 5126,
+      "count": 71,
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 11,
+      "componentType": 5126,
+      "count": 71,
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 12,
+      "componentType": 5126,
+      "count": 46,
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 13,
+      "componentType": 5126,
+      "count": 46,
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 14,
+      "componentType": 5126,
+      "count": 71,
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 15,
+      "componentType": 5126,
+      "count": 71,
+      "type": "VEC4"
+    }
+  ],
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 212,
+      "byteOffset": 0
+    },
+    {
+      "buffer": 0,
+      "byteLength": 636,
+      "byteOffset": 212
+    },
+    {
+      "buffer": 0,
+      "byteLength": 848,
+      "byteOffset": 848
+    },
+    {
+      "buffer": 0,
+      "byteLength": 184,
+      "byteOffset": 1696
+    },
+    {
+      "buffer": 0,
+      "byteLength": 552,
+      "byteOffset": 1880
+    },
+    {
+      "buffer": 0,
+      "byteLength": 736,
+      "byteOffset": 2432
+    },
+    {
+      "buffer": 0,
+      "byteLength": 320,
+      "byteOffset": 3168
+    },
+    {
+      "buffer": 0,
+      "byteLength": 960,
+      "byteOffset": 3488
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1280,
+      "byteOffset": 4448
+    },
+    {
+      "buffer": 0,
+      "byteLength": 284,
+      "byteOffset": 5728
+    },
+    {
+      "buffer": 0,
+      "byteLength": 852,
+      "byteOffset": 6012
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1136,
+      "byteOffset": 6864
+    },
+    {
+      "buffer": 0,
+      "byteLength": 552,
+      "byteOffset": 8000
+    },
+    {
+      "buffer": 0,
+      "byteLength": 736,
+      "byteOffset": 8552
+    },
+    {
+      "buffer": 0,
+      "byteLength": 852,
+      "byteOffset": 9288
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1136,
+      "byteOffset": 10140
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 11276
+    }
+  ]
+}

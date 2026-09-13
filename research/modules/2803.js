@@ -1,0 +1,1 @@
+(e,t,r)=>{"use strict";Object.defineProperty(t,"__esModule",{value:!0}),Object.defineProperty(t,"addPathPrefix",{enumerable:!0,get:function(){return u}});let n=r(90892);function u(e,t){if(!e.startsWith("/")||!t)return e;let{pathname:r,query:u,hash:o}=(0,n.parsePath)(e);return""+t+r+u+o}}

@@ -1,0 +1,1 @@
+(e,t,r)=>{"use strict";Object.defineProperty(t,"__esModule",{value:!0}),!function(e,t){for(var r in t)Object.defineProperty(e,r,{enumerable:!0,get:t[r]})}(t,{ServerInsertedHTMLContext:function(){return u},useServerInsertedHTML:function(){return o}});let n=r(68725)._(r(48947)),u=n.default.createContext(null);function o(e){let t=(0,n.useContext)(u);t&&t(e)}}

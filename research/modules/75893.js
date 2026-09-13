@@ -1,0 +1,1 @@
+(t,e,i)=>{i.d(e,{e:()=>n});function n(t,{style:e,vars:i},n,s){let r,a=t.style;for(r in e)a[r]=e[r];for(r in s?.applyProjectionStyles(a,n),i)a.setProperty(r,i[r])}}

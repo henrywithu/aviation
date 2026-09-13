@@ -1,0 +1,1 @@
+(t,e,i)=>{i.d(e,{P:()=>s});var n=i(58713);function s(t){return t.props[n.n]}}

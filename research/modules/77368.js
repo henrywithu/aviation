@@ -1,0 +1,1 @@
+(t,e,i)=>{i.d(e,{K:()=>s});var n=i(572);function s(t,e,i){let s=t.getProps();return(0,n.a)(s,e,void 0!==i?i:s.custom,t)}}

@@ -1,0 +1,1 @@
+(t,e,i)=>{i.d(e,{V:()=>o});var n=i(39696),s=i(36153),r=i(47656),a=i(42098);let o={test:(0,a.$)("hsl","hue"),parse:(0,a.q)("hue","saturation","lightness"),transform:({hue:t,saturation:e,lightness:i,alpha:a=1})=>"hsla("+Math.round(t)+", "+s.KN.transform((0,r.a)(e))+", "+s.KN.transform((0,r.a)(i))+", "+(0,r.a)(n.X4.transform(a))+")"}}

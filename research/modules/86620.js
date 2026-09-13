@@ -1,0 +1,1 @@
+(e,t,n)=>{"use strict";n.d(t,{NO:()=>d,jV:()=>o,n2:()=>s,qK:()=>a});let r=0,l=0,i="lenis-lock-change",s=()=>r>0,o=i,u=()=>{window.dispatchEvent(new CustomEvent(i,{detail:{locked:s()}}))},a=(e,t)=>{e&&(r+=1,(null==t?void 0:t.keepScroll)||1===(l+=1)&&e.stop(),u())},d=(e,t)=>{e&&(r=Math.max(0,r-1),(null==t?void 0:t.keepScroll)||0===(l=Math.max(0,l-1))&&e.start(),u())}}

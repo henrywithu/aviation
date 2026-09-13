@@ -1,0 +1,1 @@
+(t,e,i)=>{i.d(e,{y:()=>a});var n=i(69084),s=i(67029),r=i(83617);let a={test:t=>r.B.test(t)||n.u.test(t)||s.V.test(t),parse:t=>r.B.test(t)?r.B.parse(t):s.V.test(t)?s.V.parse(t):n.u.parse(t),transform:t=>"string"==typeof t?t:t.hasOwnProperty("red")?r.B.transform(t):s.V.transform(t),getAnimatableNone:t=>{let e=a.parse(t);return e.alpha=0,a.transform(e)}}}

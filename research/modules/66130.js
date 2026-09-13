@@ -1,0 +1,1 @@
+(e,t,r)=>{r.d(t,{v:()=>a});var n=r(48947),o=r(39786);let i=e=>{let t=(0,o.y)(e),r=e=>(function(e,t=e=>e){let r=n.useSyncExternalStore(e.subscribe,n.useCallback(()=>t(e.getState()),[e,t]),n.useCallback(()=>t(e.getInitialState()),[e,t]));return n.useDebugValue(r),r})(t,e);return Object.assign(r,t),r},a=e=>e?i(e):i}

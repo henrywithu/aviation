@@ -1,0 +1,1 @@
+(t,e,i)=>{i.d(e,{xQ:()=>r});var n=i(48947),s=i(80718);function r(){let t=!(arguments.length>0)||void 0===arguments[0]||arguments[0],e=(0,n.useContext)(s.t);if(null===e)return[!0,null];let{isPresent:i,onExitComplete:r,register:a}=e,o=(0,n.useId)();(0,n.useEffect)(()=>{if(t)return a(o)},[t]);let l=(0,n.useCallback)(()=>t&&r&&r(o),[o,r,t]);return!i&&r?[!1,l]:[!0]}}

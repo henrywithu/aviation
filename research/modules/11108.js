@@ -1,0 +1,1 @@
+(e,t,n)=>{Object.defineProperty(t,"__esModule",{value:!0}),Object.defineProperty(t,"workAsyncStorageInstance",{enumerable:!0,get:function(){return r}});let r=(0,n(59126).createAsyncLocalStorage)()}

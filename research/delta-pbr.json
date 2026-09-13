@@ -1,0 +1,566 @@
+{
+  "asset": {
+    "generator": "Khronos glTF Blender I/O v5.0.21",
+    "version": "2.0"
+  },
+  "extensionsUsed": [
+    "KHR_draco_mesh_compression",
+    "KHR_materials_emissive_strength",
+    "EXT_texture_webp"
+  ],
+  "extensionsRequired": [
+    "KHR_draco_mesh_compression",
+    "EXT_texture_webp"
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Scene",
+      "nodes": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "mesh": 0,
+      "name": "USAvionix_decals",
+      "rotation": [
+        0,
+        -0.7071066498756409,
+        0,
+        0.7071069478988647
+      ],
+      "scale": [
+        0.11442302912473679,
+        0.11442303657531738,
+        0.11442302912473679
+      ],
+      "translation": [
+        0,
+        0.18664897978305817,
+        0.45502030849456787
+      ]
+    },
+    {
+      "mesh": 1,
+      "name": "USAvionix_turbine",
+      "rotation": [
+        0,
+        -0.7071066498756409,
+        -0.70710688829422,
+        8.431425868593578e-08
+      ],
+      "translation": [
+        0.0006134262075647712,
+        0.0019143688259646297,
+        0.818547785282135
+      ]
+    },
+    {
+      "mesh": 2,
+      "name": "USAvionix_Air",
+      "scale": [
+        1.5566210746765137,
+        1.5566210746765137,
+        1.5566210746765137
+      ],
+      "translation": [
+        -0.0023987293243408203,
+        0.1776372343301773,
+        -0.05540841817855835
+      ]
+    },
+    {
+      "mesh": 3,
+      "name": "USAvionix_geo",
+      "rotation": [
+        0,
+        0.70710688829422,
+        -0.7071066498756409,
+        0
+      ],
+      "scale": [
+        -0.9999998211860657,
+        -0.9999998211860657,
+        -0.9999998211860657
+      ],
+      "translation": [
+        0,
+        0.07386845350265503,
+        -0.0067767491564154625
+      ]
+    },
+    {
+      "mesh": 4,
+      "name": "USAvionix_number",
+      "translation": [
+        0.9536195993423462,
+        0.02445286512374878,
+        0.4063590168952942
+      ]
+    }
+  ],
+  "materials": [
+    {
+      "alphaMode": "BLEND",
+      "doubleSided": true,
+      "name": "mtl_decals",
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicFactor": 0,
+        "roughnessFactor": 0.5
+      }
+    },
+    {
+      "doubleSided": true,
+      "emissiveFactor": [
+        1,
+        1,
+        1
+      ],
+      "emissiveTexture": {
+        "index": 1
+      },
+      "extensions": {
+        "KHR_materials_emissive_strength": {
+          "emissiveStrength": 3.3000011444091797
+        }
+      },
+      "name": "mtl-usavionix",
+      "normalTexture": {
+        "index": 2,
+        "scale": 0.10000000149011612
+      },
+      "occlusionTexture": {
+        "index": 3
+      },
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 4
+        },
+        "metallicRoughnessTexture": {
+          "index": 3
+        }
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "mtl_Air",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.800000011920929,
+          0.800000011920929,
+          0.800000011920929,
+          1
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 0.5
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "USAvionix_decals",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 0,
+            "NORMAL": 1,
+            "TEXCOORD_0": 2
+          },
+          "extensions": {
+            "KHR_draco_mesh_compression": {
+              "bufferView": 0,
+              "attributes": {
+                "POSITION": 0,
+                "NORMAL": 1,
+                "TEXCOORD_0": 2
+              }
+            }
+          },
+          "indices": 3,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "USAvionix_turbine",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 4,
+            "NORMAL": 5,
+            "TEXCOORD_0": 6
+          },
+          "extensions": {
+            "KHR_draco_mesh_compression": {
+              "bufferView": 2,
+              "attributes": {
+                "POSITION": 0,
+                "NORMAL": 1,
+                "TEXCOORD_0": 2
+              }
+            }
+          },
+          "indices": 7,
+          "material": 1,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "USAvionix_Air",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 8,
+            "NORMAL": 9,
+            "TEXCOORD_0": 10
+          },
+          "extensions": {
+            "KHR_draco_mesh_compression": {
+              "bufferView": 7,
+              "attributes": {
+                "POSITION": 0,
+                "NORMAL": 1,
+                "TEXCOORD_0": 2
+              }
+            }
+          },
+          "indices": 11,
+          "material": 2,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "USAvionix_geo",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 12,
+            "NORMAL": 13,
+            "TEXCOORD_0": 14
+          },
+          "extensions": {
+            "KHR_draco_mesh_compression": {
+              "bufferView": 8,
+              "attributes": {
+                "POSITION": 0,
+                "NORMAL": 1,
+                "TEXCOORD_0": 2
+              }
+            }
+          },
+          "indices": 15,
+          "material": 1,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "number.002",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 16,
+            "NORMAL": 17,
+            "TEXCOORD_0": 18
+          },
+          "extensions": {
+            "KHR_draco_mesh_compression": {
+              "bufferView": 9,
+              "attributes": {
+                "POSITION": 0,
+                "NORMAL": 1,
+                "TEXCOORD_0": 2
+              }
+            }
+          },
+          "indices": 19,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "extensions": {
+        "EXT_texture_webp": {
+          "source": 0
+        }
+      },
+      "sampler": 0
+    },
+    {
+      "sampler": 0,
+      "source": 1
+    },
+    {
+      "sampler": 0,
+      "source": 2
+    },
+    {
+      "sampler": 1,
+      "source": 3
+    },
+    {
+      "sampler": 0,
+      "source": 4
+    }
+  ],
+  "images": [
+    {
+      "bufferView": 1,
+      "mimeType": "image/webp",
+      "name": "Decals"
+    },
+    {
+      "bufferView": 3,
+      "mimeType": "image/png",
+      "name": "emissive map"
+    },
+    {
+      "bufferView": 4,
+      "mimeType": "image/jpeg",
+      "name": "normal"
+    },
+    {
+      "bufferView": 5,
+      "mimeType": "image/jpeg",
+      "name": "ARM"
+    },
+    {
+      "bufferView": 6,
+      "mimeType": "image/jpeg",
+      "name": "color3"
+    }
+  ],
+  "accessors": [
+    {
+      "componentType": 5126,
+      "count": 601,
+      "max": [
+        1.3769197463989258,
+        -0.17596888542175293,
+        7.132898807525635
+      ],
+      "min": [
+        -11.768152236938477,
+        -3.0721042156219482,
+        -7.149878025054932
+      ],
+      "type": "VEC3"
+    },
+    {
+      "componentType": 5126,
+      "count": 601,
+      "type": "VEC3"
+    },
+    {
+      "componentType": 5126,
+      "count": 601,
+      "type": "VEC2"
+    },
+    {
+      "componentType": 5123,
+      "count": 867,
+      "type": "SCALAR"
+    },
+    {
+      "componentType": 5126,
+      "count": 440,
+      "max": [
+        0.15811456739902496,
+        0.09857025742530823,
+        0.15654334425926208
+      ],
+      "min": [
+        -0.1574389785528183,
+        -0.21195614337921143,
+        -0.15793156623840332
+      ],
+      "type": "VEC3"
+    },
+    {
+      "componentType": 5126,
+      "count": 440,
+      "type": "VEC3"
+    },
+    {
+      "componentType": 5126,
+      "count": 440,
+      "type": "VEC2"
+    },
+    {
+      "componentType": 5123,
+      "count": 1653,
+      "type": "SCALAR"
+    },
+    {
+      "componentType": 5126,
+      "count": 155,
+      "max": [
+        1.0000004768371582,
+        0.00018265843391418457,
+        1.2399373054504395
+      ],
+      "min": [
+        -1.0000004768371582,
+        -0.12555749714374542,
+        -0.7600637078285217
+      ],
+      "type": "VEC3"
+    },
+    {
+      "componentType": 5126,
+      "count": 155,
+      "type": "VEC3"
+    },
+    {
+      "componentType": 5126,
+      "count": 155,
+      "type": "VEC2"
+    },
+    {
+      "componentType": 5123,
+      "count": 882,
+      "type": "SCALAR"
+    },
+    {
+      "componentType": 5126,
+      "count": 5753,
+      "max": [
+        1.3160936832427979,
+        0.8153833746910095,
+        0.09126558899879456
+      ],
+      "min": [
+        -1.316093921661377,
+        -0.8968319296836853,
+        -0.24034860730171204
+      ],
+      "type": "VEC3"
+    },
+    {
+      "componentType": 5126,
+      "count": 5753,
+      "type": "VEC3"
+    },
+    {
+      "componentType": 5126,
+      "count": 5753,
+      "type": "VEC2"
+    },
+    {
+      "componentType": 5123,
+      "count": 19512,
+      "type": "SCALAR"
+    },
+    {
+      "componentType": 5126,
+      "count": 24,
+      "max": [
+        0.26464903354644775,
+        0.006736411713063717,
+        0.2605363726615906
+      ],
+      "min": [
+        -0.12082064151763916,
+        -0.00800936296582222,
+        -0.1266111135482788
+      ],
+      "type": "VEC3"
+    },
+    {
+      "componentType": 5126,
+      "count": 24,
+      "type": "VEC3"
+    },
+    {
+      "componentType": 5126,
+      "count": 24,
+      "type": "VEC2"
+    },
+    {
+      "componentType": 5123,
+      "count": 36,
+      "type": "SCALAR"
+    }
+  ],
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 4017,
+      "byteOffset": 0
+    },
+    {
+      "buffer": 0,
+      "byteLength": 56194,
+      "byteOffset": 4020
+    },
+    {
+      "buffer": 0,
+      "byteLength": 3121,
+      "byteOffset": 60216
+    },
+    {
+      "buffer": 0,
+      "byteLength": 32716,
+      "byteOffset": 63340
+    },
+    {
+      "buffer": 0,
+      "byteLength": 374276,
+      "byteOffset": 96056
+    },
+    {
+      "buffer": 0,
+      "byteLength": 177875,
+      "byteOffset": 470332
+    },
+    {
+      "buffer": 0,
+      "byteLength": 267629,
+      "byteOffset": 648208
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1670,
+      "byteOffset": 915840
+    },
+    {
+      "buffer": 0,
+      "byteLength": 40626,
+      "byteOffset": 917512
+    },
+    {
+      "buffer": 0,
+      "byteLength": 378,
+      "byteOffset": 958140
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987
+    },
+    {
+      "magFilter": 9728,
+      "minFilter": 9984
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 958520
+    }
+  ]
+}

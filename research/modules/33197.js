@@ -1,0 +1,1 @@
+(t,e,i)=>{i.d(e,{X:()=>r});var n=i(68304),s=i(68687);function r(t,e=100,i){let a=i({...t,keyframes:[0,e]}),o=Math.min((0,s.t)(a),s.Y);return{type:"keyframes",ease:t=>a.next(o*t).value/e,duration:(0,n.X)(o)}}}

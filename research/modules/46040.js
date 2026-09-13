@@ -1,0 +1,1 @@
+(t,e,i)=>{i.d(e,{f:()=>r});var n=i(67459),s=i(70191);function r(t,e){let i=t[t.length-1];for(let r=1;r<=e;r++){let a=(0,n.q)(0,e,r);t.push((0,s.k)(i,1,a))}}}
